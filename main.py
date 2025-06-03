@@ -52,3 +52,8 @@ y_pred = model_predict(model_2024_08, X_test)
 perf = evaluate_performance(y_test, y_pred)  
 print_data(perf, exp_name="exp 2")
 draw_loss(hist2)
+
+
+
+
+
