@@ -1,0 +1,1501 @@
+id_client,age,region,revenu_annuel,anciennete_contrat,nombre_sinistres,montant_total_sinistres,type_contrat,franchise,smoker,participation_prevention,contacts_service_client,probabilite_sinistre,montant_sinistre_estime
+1,56,Bretagne,38645,7,1,2597,Tous risques,300,Non,Non,2,0.05,11885
+2,69,Auvergne-Rhône-Alpes,18479,14,3,11949,Tous risques,500,Non,Non,0,0.46,10640
+3,46,Nouvelle-Aquitaine,43615,10,0,0,Tiers,300,Non,Oui,1,0.05,11936
+4,32,Nouvelle-Aquitaine,55106,8,1,2151,Tous risques,300,Non,Non,1,0.16,8839
+5,60,Nouvelle-Aquitaine,55157,6,1,3002,Tous risques,300,Non,Oui,1,0.16,13010
+6,25,Provence-Alpes-Côte d'Azur,43818,12,1,5366,Tiers,500,Non,Non,4,0.5,8476
+7,78,Provence-Alpes-Côte d'Azur,27999,1,2,10031,Tous risques,1000,Oui,Non,2,0.18,3825
+8,38,Auvergne-Rhône-Alpes,19389,7,3,4292,Tous risques,800,Non,Non,0,0.1,8354
+9,56,Nouvelle-Aquitaine,18197,6,1,5483,Tiers,800,Oui,Non,0,0.2,10837
+10,75,Nouvelle-Aquitaine,1325,11,2,2636,Tiers,500,Non,Non,1,0.45,9976
+11,36,Bretagne,43326,18,0,0,Tous risques,1000,Oui,Non,1,0.06,4023
+12,40,Provence-Alpes-Côte d'Azur,33765,6,0,0,Tiers,1000,Non,Non,2,0.12,1095
+13,28,Nouvelle-Aquitaine,45910,9,0,0,Tiers,500,Non,Non,0,0.21,4160
+14,28,Auvergne-Rhône-Alpes,52136,15,0,0,Tous risques,300,Non,Non,3,0.15,14768
+15,41,Auvergne-Rhône-Alpes,36198,2,0,0,Tiers,1000,Non,Non,2,0.19,3174
+16,70,Nouvelle-Aquitaine,36751,9,1,2858,Tous risques,800,Non,Non,1,0.32,7233
+17,53,Provence-Alpes-Côte d'Azur,29428,5,0,0,Tous risques,500,Non,Non,4,0.17,9756
+18,57,Auvergne-Rhône-Alpes,30846,17,1,2670,Tous risques,800,Non,Non,3,0.43,13252
+19,41,Bretagne,43741,17,0,0,Tous risques,300,Non,Oui,2,0.66,11523
+20,20,Auvergne-Rhône-Alpes,32907,4,1,4817,Tous risques,500,Oui,Non,9,0.35,13679
+21,39,Île-de-France,31171,6,1,5384,Tiers,800,Non,Non,4,0.55,9263
+22,70,Île-de-France,34780,1,3,19524,Tous risques,800,Non,Non,3,0.45,13047
+23,19,Provence-Alpes-Côte d'Azur,45635,10,2,12942,Tous risques,300,Non,Non,2,0.27,4325
+24,41,Nouvelle-Aquitaine,26688,12,2,10867,Tiers,500,Non,Oui,4,0.23,6743
+25,61,Provence-Alpes-Côte d'Azur,34201,4,0,0,Tous risques,1000,Non,Non,1,0.42,12734
+26,47,Provence-Alpes-Côte d'Azur,37943,5,2,12120,Tous risques,1000,Non,Non,4,0.08,5220
+27,55,Provence-Alpes-Côte d'Azur,48922,13,1,2222,Tous risques,800,Non,Non,1,0.12,13132
+28,19,Provence-Alpes-Côte d'Azur,32128,11,1,5457,Tous risques,300,Non,Non,3,0.44,5765
+29,77,Bretagne,26386,3,1,5113,Tous risques,800,Non,Oui,4,0.12,5769
+30,38,Bretagne,29187,5,2,11106,Tous risques,300,Non,Non,1,0.71,4980
+31,50,Auvergne-Rhône-Alpes,47636,9,0,0,Tous risques,1000,Non,Non,1,0.08,8430
+32,29,Île-de-France,59399,17,1,4832,Tiers,800,Non,Non,2,0.2,2371
+33,75,Provence-Alpes-Côte d'Azur,19234,14,1,6719,Tiers,800,Non,Oui,1,0.33,1030
+34,39,Auvergne-Rhône-Alpes,21856,7,3,4819,Tous risques,300,Oui,Non,4,0.06,13512
+35,78,Île-de-France,32974,8,0,0,Tous risques,500,Oui,Oui,4,0.33,13969
+36,61,Nouvelle-Aquitaine,36331,4,2,9336,Tiers,300,Non,Non,1,0.32,1604
+37,42,Bretagne,44443,9,3,20352,Tiers,500,Non,Non,3,0.1,8470
+38,66,Île-de-France,24306,19,1,1573,Tiers,1000,Non,Oui,3,0.34,8325
+39,44,Nouvelle-Aquitaine,22242,5,0,0,Tous risques,800,Oui,Oui,2,0.14,5900
+40,76,Île-de-France,36657,15,1,1334,Tous risques,800,Non,Non,1,0.44,8749
+41,59,Bretagne,31899,2,0,0,Tous risques,300,Oui,Non,1,0.33,7142
+42,45,Bretagne,46120,9,1,6446,Tous risques,300,Non,Oui,2,0.26,7599
+43,77,Auvergne-Rhône-Alpes,40848,10,2,10655,Tous risques,1000,Non,Non,1,0.43,11452
+44,33,Provence-Alpes-Côte d'Azur,41664,10,1,5062,Tous risques,1000,Non,Non,2,0.26,8126
+45,32,Île-de-France,33746,16,1,4135,Tiers,500,Non,Oui,2,0.21,5193
+46,79,Île-de-France,63266,3,1,5691,Tiers,1000,Non,Non,2,0.07,8931
+47,79,Nouvelle-Aquitaine,24947,3,1,1933,Tous risques,1000,Non,Non,2,0.57,9790
+48,64,Bretagne,42329,16,0,0,Tiers,1000,Non,Oui,2,0.37,10103
+49,79,Île-de-France,19763,8,3,11820,Tous risques,1000,Non,Non,3,0.08,9465
+50,68,Bretagne,22118,18,0,0,Tous risques,500,Oui,Non,0,0.03,10136
+51,61,Île-de-France,27711,4,1,3517,Tous risques,1000,Non,Oui,2,0.05,4996
+52,72,Auvergne-Rhône-Alpes,54551,5,0,0,Tous risques,500,Oui,Oui,1,0.19,6968
+53,69,Provence-Alpes-Côte d'Azur,38166,2,0,0,Tous risques,300,Oui,Oui,1,0.21,10196
+54,74,Île-de-France,27914,0,2,3640,Tiers,800,Non,Non,1,0.23,11438
+55,20,Bretagne,39493,19,1,5584,Tous risques,300,Non,Oui,2,0.45,6795
+56,54,Auvergne-Rhône-Alpes,35421,15,0,0,Tous risques,1000,Non,Non,1,0.59,5797
+57,68,Île-de-France,29096,10,3,19816,Tiers,800,Non,Oui,1,0.34,10880
+58,24,Nouvelle-Aquitaine,18240,12,2,3037,Tiers,1000,Oui,Non,3,0.45,3721
+59,38,Provence-Alpes-Côte d'Azur,52262,9,1,5795,Tous risques,1000,Non,Non,3,0.39,637
+60,26,Île-de-France,37517,2,0,0,Tous risques,300,Oui,Non,4,0.16,7331
+61,56,Auvergne-Rhône-Alpes,61084,8,0,0,Tous risques,1000,Non,Non,2,0.28,3013
+62,35,Nouvelle-Aquitaine,46283,11,0,0,Tous risques,300,Oui,Non,1,0.2,5985
+63,21,Auvergne-Rhône-Alpes,41615,13,1,2725,Tous risques,1000,Non,Non,3,0.28,4722
+64,42,Auvergne-Rhône-Alpes,29777,0,0,0,Tiers,500,Non,Non,3,0.39,11770
+65,77,Nouvelle-Aquitaine,21855,17,1,3559,Tous risques,800,Oui,Non,7,0.15,5305
+66,31,Auvergne-Rhône-Alpes,32387,16,0,0,Tous risques,300,Non,Non,0,0.63,9789
+67,67,Nouvelle-Aquitaine,21508,8,4,4534,Tiers,300,Oui,Oui,2,0.49,10271
+68,75,Île-de-France,42802,8,1,6214,Tous risques,800,Non,Non,1,0.34,7118
+69,26,Nouvelle-Aquitaine,54591,9,0,0,Tous risques,300,Non,Non,2,0.07,1675
+70,43,Nouvelle-Aquitaine,31869,18,0,0,Tiers,800,Non,Non,3,0.23,10655
+71,70,Provence-Alpes-Côte d'Azur,46333,14,1,6561,Tous risques,500,Non,Non,0,0.44,1589
+72,19,Nouvelle-Aquitaine,26729,4,1,4990,Tous risques,1000,Oui,Non,3,0.26,1938
+73,37,Nouvelle-Aquitaine,31370,14,3,15435,Tous risques,500,Non,Oui,2,0.23,3341
+74,45,Île-de-France,25220,19,2,11443,Tiers,1000,Non,Non,2,0.16,4565
+75,64,Provence-Alpes-Côte d'Azur,9402,1,1,1698,Tous risques,800,Non,Oui,0,0.52,12773
+76,77,Bretagne,34561,12,2,6321,Tiers,500,Non,Oui,1,0.29,10286
+77,24,Île-de-France,36541,15,0,0,Tiers,1000,Non,Non,0,0.36,6114
+78,61,Île-de-France,47790,14,2,13075,Tous risques,800,Non,Non,1,0.51,14690
+79,78,Bretagne,44545,9,3,18913,Tous risques,1000,Non,Non,1,0.4,4032
+80,25,Nouvelle-Aquitaine,44707,13,0,0,Tous risques,300,Non,Non,3,0.13,9342
+81,64,Auvergne-Rhône-Alpes,23311,9,2,12286,Tous risques,300,Non,Oui,0,0.16,12784
+82,52,Provence-Alpes-Côte d'Azur,40513,13,0,0,Tiers,800,Non,Non,1,0.42,12129
+83,31,Auvergne-Rhône-Alpes,53991,8,0,0,Tous risques,1000,Non,Oui,0,0.34,1809
+84,34,Bretagne,39558,13,1,3483,Tous risques,300,Oui,Non,3,0.26,10610
+85,53,Île-de-France,56943,2,1,3900,Tous risques,500,Oui,Non,1,0.21,4239
+86,67,Île-de-France,59227,19,3,7743,Tous risques,1000,Non,Oui,2,0.36,5658
+87,57,Provence-Alpes-Côte d'Azur,31778,15,3,9416,Tous risques,1000,Non,Non,5,0.36,7590
+88,21,Île-de-France,26636,1,0,0,Tous risques,300,Non,Non,2,0.26,11965
+89,19,Île-de-France,25862,9,0,0,Tous risques,300,Oui,Non,3,0.28,2909
+90,79,Provence-Alpes-Côte d'Azur,16806,2,2,11526,Tous risques,800,Non,Non,2,0.1,2074
+91,23,Provence-Alpes-Côte d'Azur,28779,10,1,4968,Tous risques,1000,Non,Oui,1,0.17,2724
+92,71,Bretagne,49491,10,0,0,Tiers,500,Oui,Oui,2,0.25,3664
+93,59,Île-de-France,8551,12,1,3925,Tiers,300,Oui,Oui,3,0.09,1362
+94,21,Île-de-France,22550,6,1,5185,Tous risques,1000,Non,Non,5,0.11,13932
+95,71,Bretagne,33474,16,1,4179,Tiers,300,Non,Oui,4,0.16,5126
+96,46,Nouvelle-Aquitaine,24473,1,3,10050,Tous risques,800,Non,Non,2,0.3,3066
+97,35,Nouvelle-Aquitaine,28672,11,0,0,Tiers,1000,Non,Oui,2,0.38,9748
+98,43,Nouvelle-Aquitaine,28852,9,0,0,Tiers,1000,Non,Non,2,0.44,11911
+99,61,Bretagne,31909,17,0,0,Tous risques,800,Non,Oui,1,0.17,11421
+100,51,Île-de-France,26246,10,2,6680,Tous risques,500,Non,Oui,1,0.43,10921
+101,27,Bretagne,25265,15,0,0,Tous risques,300,Non,Oui,1,0.38,1232
+102,79,Bretagne,46211,16,1,4461,Tous risques,800,Non,Non,4,0.14,11841
+103,53,Nouvelle-Aquitaine,47595,18,2,3826,Tous risques,1000,Non,Non,3,0.45,7777
+104,31,Auvergne-Rhône-Alpes,18433,17,1,2059,Tiers,800,Non,Non,2,0.17,9911
+105,48,Île-de-France,1884,2,3,8136,Tiers,1000,Non,Non,2,0.36,14368
+106,65,Nouvelle-Aquitaine,47760,15,1,6735,Tous risques,800,Non,Non,3,0.25,12254
+107,32,Auvergne-Rhône-Alpes,20254,5,1,5404,Tous risques,500,Non,Non,1,0.34,12467
+108,25,Auvergne-Rhône-Alpes,37552,11,2,9940,Tous risques,1000,Non,Oui,2,0.19,3131
+109,31,Provence-Alpes-Côte d'Azur,16211,10,1,5901,Tous risques,800,Non,Non,2,0.34,7408
+110,40,Île-de-France,50573,14,4,7061,Tiers,500,Non,Non,2,0.21,14265
+111,77,Auvergne-Rhône-Alpes,65524,14,1,6155,Tiers,500,Non,Non,5,0.71,8948
+112,74,Nouvelle-Aquitaine,37193,15,1,4568,Tous risques,300,Non,Oui,3,0.17,1987
+113,79,Provence-Alpes-Côte d'Azur,33870,9,0,0,Tous risques,1000,Non,Non,5,0.2,11111
+114,57,Île-de-France,31134,11,0,0,Tiers,300,Non,Oui,1,0.22,1122
+115,38,Bretagne,44381,12,0,0,Tiers,500,Non,Oui,1,0.37,11263
+116,33,Nouvelle-Aquitaine,41812,3,2,12148,Tiers,300,Non,Non,4,0.28,13256
+117,62,Auvergne-Rhône-Alpes,47041,6,1,1693,Tous risques,300,Non,Non,2,0.05,6666
+118,35,Auvergne-Rhône-Alpes,27465,1,1,6816,Tous risques,800,Non,Non,3,0.15,6497
+119,64,Nouvelle-Aquitaine,39081,14,3,20273,Tous risques,300,Non,Non,1,0.17,4911
+120,70,Auvergne-Rhône-Alpes,28490,7,3,9434,Tous risques,500,Non,Oui,4,0.4,13215
+121,41,Provence-Alpes-Côte d'Azur,22307,6,2,2790,Tous risques,300,Non,Oui,3,0.05,8442
+122,43,Île-de-France,34507,14,0,0,Tous risques,1000,Non,Non,2,0.51,8899
+123,42,Provence-Alpes-Côte d'Azur,23929,13,2,13913,Tiers,800,Non,Non,2,0.43,10094
+124,77,Auvergne-Rhône-Alpes,49084,7,1,4378,Tiers,500,Non,Non,2,0.54,4853
+125,77,Bretagne,24656,11,0,0,Tiers,300,Non,Non,1,0.32,6775
+126,77,Île-de-France,39362,12,0,0,Tous risques,1000,Non,Non,4,0.19,11253
+127,62,Île-de-France,27758,10,0,0,Tous risques,500,Non,Non,1,0.1,14789
+128,58,Nouvelle-Aquitaine,38324,16,1,4984,Tous risques,300,Oui,Oui,1,0.41,997
+129,46,Nouvelle-Aquitaine,28712,16,0,0,Tous risques,800,Non,Non,5,0.14,1118
+130,32,Bretagne,19913,3,0,0,Tiers,300,Non,Non,1,0.62,6707
+131,62,Île-de-France,40805,7,0,0,Tous risques,500,Non,Non,0,0.06,10064
+132,18,Bretagne,32175,4,0,0,Tous risques,500,Non,Non,1,0.05,6102
+133,42,Nouvelle-Aquitaine,38431,15,1,2756,Tous risques,500,Non,Non,1,0.14,14994
+134,24,Nouvelle-Aquitaine,29853,3,2,2950,Tiers,1000,Oui,Non,2,0.13,3332
+135,26,Île-de-France,19064,14,1,3926,Tous risques,300,Non,Oui,2,0.38,614
+136,41,Provence-Alpes-Côte d'Azur,47998,11,0,0,Tous risques,300,Non,Oui,2,0.44,3256
+137,18,Auvergne-Rhône-Alpes,43841,4,0,0,Tous risques,300,Non,Non,0,0.25,13359
+138,61,Nouvelle-Aquitaine,28196,15,1,6715,Tous risques,800,Non,Non,0,0.23,2604
+139,25,Nouvelle-Aquitaine,35837,13,1,3663,Tous risques,1000,Non,Non,2,0.28,7445
+140,41,Provence-Alpes-Côte d'Azur,47504,9,1,2048,Tiers,1000,Non,Non,5,0.25,6579
+141,28,Provence-Alpes-Côte d'Azur,29515,6,1,2191,Tiers,800,Oui,Non,4,0.06,10153
+142,68,Bretagne,31377,12,0,0,Tiers,1000,Non,Oui,2,0.33,1291
+143,34,Bretagne,37923,19,0,0,Tiers,800,Oui,Oui,4,0.03,10051
+144,25,Auvergne-Rhône-Alpes,29490,4,0,0,Tous risques,500,Non,Non,2,0.41,5643
+145,52,Auvergne-Rhône-Alpes,45285,2,2,5945,Tous risques,500,Non,Oui,2,0.2,13927
+146,52,Île-de-France,32973,14,3,14867,Tous risques,1000,Non,Oui,1,0.05,12808
+147,50,Bretagne,25591,3,2,5527,Tiers,500,Non,Non,3,0.38,6292
+148,76,Nouvelle-Aquitaine,42303,14,1,2294,Tous risques,500,Oui,Oui,2,0.43,14896
+149,22,Bretagne,21294,13,0,0,Tiers,500,Oui,Non,2,0.36,1253
+150,59,Nouvelle-Aquitaine,59178,19,2,5752,Tiers,300,Oui,Non,3,0.16,11935
+151,56,Provence-Alpes-Côte d'Azur,53989,18,2,3270,Tous risques,500,Oui,Non,1,0.3,6790
+152,75,Bretagne,41161,12,2,2223,Tous risques,300,Oui,Non,0,0.58,6782
+153,58,Provence-Alpes-Côte d'Azur,40151,9,1,5827,Tous risques,800,Non,Non,2,0.41,2966
+154,45,Auvergne-Rhône-Alpes,39589,4,0,0,Tiers,800,Non,Oui,1,0.29,7965
+155,24,Auvergne-Rhône-Alpes,29130,19,0,0,Tous risques,800,Non,Oui,4,0.4,1728
+156,26,Île-de-France,38567,19,0,0,Tiers,800,Non,Non,4,0.01,9440
+157,25,Bretagne,23922,5,0,0,Tiers,800,Non,Oui,1,0.12,4003
+158,29,Provence-Alpes-Côte d'Azur,41045,3,0,0,Tous risques,500,Non,Oui,3,0.05,11010
+159,51,Nouvelle-Aquitaine,45414,1,1,1870,Tiers,500,Non,Non,2,0.61,9306
+160,50,Auvergne-Rhône-Alpes,30462,15,1,5420,Tiers,500,Non,Non,2,0.4,11322
+161,65,Auvergne-Rhône-Alpes,27858,17,2,9216,Tous risques,800,Non,Non,1,0.18,11371
+162,72,Nouvelle-Aquitaine,20450,4,3,14798,Tous risques,800,Non,Oui,1,0.37,3352
+163,40,Provence-Alpes-Côte d'Azur,52495,3,2,2104,Tous risques,300,Oui,Non,2,0.32,509
+164,79,Provence-Alpes-Côte d'Azur,28812,12,0,0,Tous risques,1000,Non,Non,1,0.1,5803
+165,41,Bretagne,32615,18,2,2795,Tiers,500,Oui,Oui,2,0.35,13826
+166,54,Bretagne,38601,1,0,0,Tiers,1000,Oui,Oui,3,0.17,8879
+167,52,Île-de-France,38386,12,2,6832,Tiers,800,Oui,Non,2,0.22,11048
+168,61,Auvergne-Rhône-Alpes,43958,10,1,1008,Tous risques,800,Non,Non,1,0.16,13253
+169,57,Bretagne,30448,3,2,7965,Tous risques,800,Non,Non,2,0.3,13637
+170,39,Provence-Alpes-Côte d'Azur,21335,19,2,11033,Tous risques,1000,Non,Oui,3,0.14,8170
+171,44,Nouvelle-Aquitaine,19236,19,0,0,Tous risques,300,Non,Non,1,0.06,8343
+172,52,Provence-Alpes-Côte d'Azur,28048,14,1,6276,Tiers,800,Non,Non,2,0.32,12838
+173,18,Auvergne-Rhône-Alpes,23577,3,0,0,Tous risques,300,Non,Oui,0,0.34,12208
+174,52,Provence-Alpes-Côte d'Azur,31356,8,1,4783,Tiers,300,Non,Oui,3,0.16,10633
+175,54,Île-de-France,50690,6,1,1477,Tous risques,500,Non,Oui,1,0.55,9264
+176,64,Auvergne-Rhône-Alpes,30472,18,2,7856,Tous risques,1000,Non,Non,3,0.54,9449
+177,31,Nouvelle-Aquitaine,30468,18,1,1928,Tous risques,800,Non,Non,3,0.03,5762
+178,20,Île-de-France,34803,5,3,9653,Tous risques,300,Non,Non,2,0.54,12693
+179,18,Auvergne-Rhône-Alpes,30132,5,1,2975,Tous risques,1000,Non,Non,1,0.35,9457
+180,22,Nouvelle-Aquitaine,34191,19,1,3541,Tiers,1000,Non,Non,2,0.36,3741
+181,43,Île-de-France,41490,14,1,4429,Tiers,800,Non,Non,2,0.14,3977
+182,72,Île-de-France,45617,14,1,6417,Tous risques,500,Oui,Oui,3,0.21,12993
+183,31,Auvergne-Rhône-Alpes,47038,19,1,3366,Tiers,500,Non,Non,4,0.23,9572
+184,56,Bretagne,59682,8,0,0,Tous risques,300,Oui,Non,2,0.13,6281
+185,44,Île-de-France,41832,3,3,16662,Tous risques,500,Non,Oui,0,0.48,3212
+186,26,Île-de-France,61813,17,0,0,Tous risques,500,Non,Non,4,0.22,9348
+187,32,Nouvelle-Aquitaine,25682,17,2,9728,Tous risques,500,Non,Oui,5,0.36,3172
+188,32,Provence-Alpes-Côte d'Azur,60095,4,5,8066,Tiers,1000,Non,Non,5,0.41,7317
+189,43,Auvergne-Rhône-Alpes,30435,19,0,0,Tous risques,800,Non,Non,2,0.14,10323
+190,59,Auvergne-Rhône-Alpes,31615,10,2,8988,Tous risques,1000,Non,Non,1,0.14,8698
+191,77,Bretagne,33561,4,1,6916,Tous risques,1000,Non,Non,3,0.23,13870
+192,30,Bretagne,32376,3,1,4818,Tiers,800,Oui,Non,1,0.28,1075
+193,68,Auvergne-Rhône-Alpes,36030,11,0,0,Tous risques,1000,Non,Oui,2,0.18,4557
+194,49,Bretagne,28039,1,2,11597,Tiers,300,Non,Oui,3,0.25,1327
+195,56,Nouvelle-Aquitaine,44959,12,2,6145,Tous risques,300,Non,Non,2,0.3,3321
+196,66,Auvergne-Rhône-Alpes,28365,9,0,0,Tiers,1000,Non,Oui,2,0.01,2297
+197,69,Bretagne,42867,8,1,3582,Tous risques,500,Non,Oui,3,0.31,11123
+198,78,Auvergne-Rhône-Alpes,53332,9,1,3803,Tous risques,1000,Oui,Non,3,0.25,5855
+199,49,Provence-Alpes-Côte d'Azur,30714,6,1,2440,Tiers,500,Non,Oui,3,0.44,13913
+200,21,Île-de-France,44532,3,1,6367,Tiers,1000,Oui,Non,1,0.21,838
+201,47,Auvergne-Rhône-Alpes,41709,18,0,0,Tous risques,300,Non,Non,2,0.23,9967
+202,54,Île-de-France,62034,9,1,6870,Tiers,500,Non,Non,2,0.31,14572
+203,40,Bretagne,28942,2,1,5860,Tous risques,300,Non,Non,4,0.32,3049
+204,56,Île-de-France,44540,18,1,4334,Tous risques,1000,Oui,Oui,2,0.42,6915
+205,62,Auvergne-Rhône-Alpes,15487,1,1,6682,Tous risques,800,Non,Non,1,0.29,10677
+206,32,Provence-Alpes-Côte d'Azur,29049,19,0,0,Tous risques,500,Non,Oui,2,0.2,9680
+207,60,Bretagne,39240,9,2,12645,Tiers,500,Non,Oui,4,0.15,8707
+208,46,Auvergne-Rhône-Alpes,51717,1,1,3148,Tiers,1000,Non,Non,2,0.18,5237
+209,53,Bretagne,20288,1,1,3271,Tiers,1000,Non,Oui,3,0.42,11058
+210,30,Nouvelle-Aquitaine,44433,16,2,7017,Tous risques,500,Oui,Non,2,0.29,9972
+211,49,Île-de-France,34241,15,0,0,Tous risques,800,Non,Non,0,0.06,2860
+212,24,Nouvelle-Aquitaine,16741,15,2,8641,Tiers,1000,Oui,Non,1,0.42,14479
+213,76,Auvergne-Rhône-Alpes,37179,13,0,0,Tiers,1000,Non,Non,2,0.15,8557
+214,68,Provence-Alpes-Côte d'Azur,55509,6,1,2836,Tous risques,1000,Non,Oui,0,0.53,8119
+215,39,Bretagne,21554,10,2,13126,Tous risques,800,Non,Non,0,0.39,12799
+216,45,Île-de-France,33680,0,2,9063,Tous risques,500,Oui,Oui,2,0.18,9785
+217,19,Bretagne,23160,10,2,6892,Tous risques,300,Non,Non,2,0.45,1579
+218,59,Auvergne-Rhône-Alpes,29377,3,1,4907,Tous risques,1000,Non,Oui,1,0.23,7845
+219,62,Bretagne,52186,6,2,11215,Tiers,800,Non,Oui,0,0.38,11818
+220,79,Île-de-France,31741,14,3,20293,Tous risques,500,Non,Non,2,0.58,10649
+221,74,Auvergne-Rhône-Alpes,51818,17,1,3997,Tous risques,500,Non,Non,3,0.4,14576
+222,70,Bretagne,48308,11,2,3345,Tous risques,800,Non,Non,0,0.42,861
+223,23,Provence-Alpes-Côte d'Azur,30647,16,1,3644,Tous risques,1000,Oui,Non,2,0.4,4287
+224,45,Auvergne-Rhône-Alpes,28968,0,4,15495,Tiers,300,Oui,Non,0,0.34,8462
+225,45,Auvergne-Rhône-Alpes,24248,10,0,0,Tiers,1000,Non,Non,0,0.18,9482
+226,61,Provence-Alpes-Côte d'Azur,23829,0,1,3368,Tous risques,500,Non,Non,3,0.32,4478
+227,61,Nouvelle-Aquitaine,39238,14,0,0,Tiers,300,Oui,Oui,2,0.27,12488
+228,37,Île-de-France,34762,9,0,0,Tous risques,1000,Oui,Non,3,0.5,2883
+229,47,Nouvelle-Aquitaine,27516,6,3,20528,Tous risques,300,Non,Non,2,0.21,512
+230,79,Bretagne,16414,1,0,0,Tous risques,800,Non,Oui,1,0.24,14309
+231,28,Provence-Alpes-Côte d'Azur,36274,9,3,19178,Tous risques,1000,Non,Oui,2,0.33,6177
+232,75,Nouvelle-Aquitaine,29365,3,0,0,Tous risques,500,Non,Oui,1,0.17,14383
+233,72,Auvergne-Rhône-Alpes,32656,11,0,0,Tiers,500,Oui,Non,3,0.46,4530
+234,45,Bretagne,38655,18,3,3235,Tous risques,300,Oui,Non,2,0.3,1420
+235,42,Bretagne,4978,10,2,4060,Tous risques,800,Non,Non,2,0.09,11701
+236,56,Nouvelle-Aquitaine,16600,7,2,9845,Tous risques,1000,Non,Non,3,0.59,12619
+237,79,Nouvelle-Aquitaine,62557,17,5,5764,Tous risques,800,Non,Non,1,0.1,7635
+238,50,Provence-Alpes-Côte d'Azur,28920,10,1,1381,Tous risques,800,Non,Oui,2,0.19,1570
+239,18,Île-de-France,4790,10,1,2326,Tiers,300,Non,Oui,2,0.19,9984
+240,74,Nouvelle-Aquitaine,17600,12,0,0,Tiers,300,Non,Non,2,0.12,3141
+241,44,Nouvelle-Aquitaine,64813,2,0,0,Tous risques,1000,Non,Non,0,0.16,12816
+242,79,Auvergne-Rhône-Alpes,26564,11,0,0,Tous risques,500,Non,Non,1,0.13,4473
+243,74,Bretagne,48908,2,4,8088,Tous risques,1000,Non,Non,2,0.05,12791
+244,69,Île-de-France,36453,9,2,7996,Tous risques,800,Non,Non,1,0.42,6690
+245,30,Auvergne-Rhône-Alpes,29180,16,0,0,Tous risques,300,Non,Non,2,0.09,9149
+246,58,Provence-Alpes-Côte d'Azur,44305,1,2,3780,Tous risques,800,Non,Oui,1,0.31,11948
+247,20,Provence-Alpes-Côte d'Azur,6387,16,1,3393,Tous risques,300,Non,Non,1,0.21,1086
+248,56,Nouvelle-Aquitaine,17706,15,0,0,Tous risques,500,Non,Oui,2,0.28,12406
+249,23,Nouvelle-Aquitaine,29091,1,1,6993,Tous risques,800,Oui,Non,0,0.15,2510
+250,25,Provence-Alpes-Côte d'Azur,18885,19,2,13846,Tous risques,300,Oui,Oui,2,0.2,5697
+251,44,Nouvelle-Aquitaine,28030,5,2,12580,Tiers,1000,Non,Non,4,0.05,7355
+252,26,Île-de-France,45244,9,4,13471,Tous risques,1000,Oui,Non,0,0.19,13483
+253,79,Nouvelle-Aquitaine,36585,9,2,10238,Tiers,1000,Non,Non,1,0.22,825
+254,54,Bretagne,50967,7,0,0,Tiers,800,Non,Non,1,0.44,8608
+255,50,Nouvelle-Aquitaine,37344,0,1,4891,Tiers,300,Non,Non,2,0.05,9816
+256,68,Auvergne-Rhône-Alpes,46909,12,0,0,Tiers,300,Non,Oui,1,0.47,5090
+257,59,Île-de-France,34231,8,2,9274,Tous risques,300,Non,Non,1,0.49,4712
+258,61,Auvergne-Rhône-Alpes,27916,9,3,12427,Tiers,800,Non,Non,1,0.2,7611
+259,41,Auvergne-Rhône-Alpes,52766,14,4,4587,Tiers,300,Oui,Oui,1,0.13,3212
+260,32,Bretagne,26487,4,0,0,Tous risques,500,Non,Non,4,0.19,7287
+261,76,Île-de-France,39126,15,1,1071,Tous risques,800,Oui,Non,1,0.34,11592
+262,71,Île-de-France,44226,12,2,5517,Tiers,500,Non,Non,2,0.03,12758
+263,49,Île-de-France,45097,19,1,1035,Tous risques,500,Oui,Non,2,0.12,6084
+264,49,Île-de-France,21014,17,1,3257,Tous risques,1000,Non,Oui,1,0.33,9450
+265,41,Île-de-France,47623,10,1,1378,Tous risques,800,Non,Non,2,0.44,500
+266,58,Bretagne,23252,8,0,0,Tous risques,300,Oui,Non,1,0.12,8480
+267,69,Nouvelle-Aquitaine,44728,15,3,10482,Tiers,500,Non,Oui,3,0.32,14640
+268,66,Auvergne-Rhône-Alpes,41422,1,1,3756,Tous risques,800,Non,Non,3,0.35,5027
+269,79,Île-de-France,44823,1,0,0,Tous risques,300,Non,Non,2,0.52,9124
+270,66,Nouvelle-Aquitaine,20539,11,1,4765,Tiers,1000,Non,Oui,1,0.3,11553
+271,75,Nouvelle-Aquitaine,42055,7,1,5706,Tous risques,800,Non,Oui,3,0.07,9329
+272,69,Auvergne-Rhône-Alpes,48027,8,2,9777,Tous risques,800,Non,Non,6,0.19,6568
+273,29,Bretagne,37320,11,1,5489,Tous risques,800,Non,Oui,2,0.35,2712
+274,79,Provence-Alpes-Côte d'Azur,25176,8,1,6435,Tous risques,300,Non,Non,1,0.19,7223
+275,56,Provence-Alpes-Côte d'Azur,46036,9,2,12362,Tous risques,500,Oui,Non,3,0.23,4774
+276,19,Nouvelle-Aquitaine,36367,1,0,0,Tous risques,500,Non,Non,2,0.26,10590
+277,20,Auvergne-Rhône-Alpes,14906,15,1,2287,Tous risques,800,Non,Non,1,0.09,6907
+278,66,Provence-Alpes-Côte d'Azur,24245,19,2,9652,Tous risques,800,Non,Non,2,0.33,12823
+279,54,Nouvelle-Aquitaine,28684,6,4,16145,Tous risques,300,Non,Non,1,0.13,3303
+280,66,Bretagne,53069,1,0,0,Tous risques,1000,Non,Non,2,0.22,6556
+281,73,Provence-Alpes-Côte d'Azur,50962,0,2,11995,Tous risques,800,Non,Non,3,0.2,8583
+282,34,Nouvelle-Aquitaine,50923,18,2,10912,Tous risques,800,Non,Non,1,0.27,2327
+283,76,Nouvelle-Aquitaine,37788,3,1,6079,Tous risques,1000,Non,Non,1,0.04,9024
+284,66,Île-de-France,45963,1,1,1383,Tous risques,800,Non,Oui,5,0.79,4718
+285,19,Bretagne,21310,13,1,1189,Tous risques,500,Non,Non,1,0.18,3828
+286,19,Île-de-France,35081,1,2,5102,Tiers,800,Non,Non,1,0.21,2557
+287,45,Auvergne-Rhône-Alpes,40419,14,1,6403,Tous risques,500,Non,Non,1,0.25,5573
+288,71,Île-de-France,22101,11,0,0,Tiers,300,Non,Oui,0,0.31,13970
+289,40,Île-de-France,37518,4,1,5096,Tiers,300,Non,Non,2,0.46,949
+290,54,Provence-Alpes-Côte d'Azur,55239,19,1,5204,Tiers,500,Non,Non,5,0.28,12856
+291,49,Nouvelle-Aquitaine,41705,6,1,5360,Tous risques,500,Non,Non,1,0.35,6261
+292,50,Bretagne,46010,9,1,6655,Tous risques,1000,Non,Non,2,0.24,8643
+293,18,Île-de-France,5571,13,3,17979,Tous risques,500,Non,Non,4,0.19,7935
+294,36,Bretagne,53695,13,0,0,Tous risques,500,Non,Non,3,0.09,13923
+295,79,Île-de-France,32766,4,0,0,Tous risques,800,Non,Non,2,0.14,11666
+296,19,Auvergne-Rhône-Alpes,25775,17,0,0,Tous risques,1000,Oui,Oui,0,0.34,14779
+297,70,Île-de-France,32904,13,1,4943,Tous risques,500,Non,Non,3,0.29,12019
+298,61,Provence-Alpes-Côte d'Azur,17179,1,0,0,Tiers,500,Non,Oui,3,0.43,4790
+299,43,Nouvelle-Aquitaine,47575,11,0,0,Tiers,500,Non,Non,0,0.44,14461
+300,49,Auvergne-Rhône-Alpes,30975,5,0,0,Tous risques,800,Non,Oui,1,0.61,14761
+301,23,Île-de-France,26136,3,0,0,Tous risques,800,Oui,Non,2,0.16,2284
+302,49,Bretagne,32983,12,0,0,Tous risques,800,Non,Non,6,0.4,13565
+303,72,Auvergne-Rhône-Alpes,48416,3,1,2690,Tous risques,300,Oui,Non,2,0.29,10130
+304,21,Auvergne-Rhône-Alpes,36577,13,0,0,Tiers,800,Non,Non,1,0.09,13868
+305,72,Île-de-France,18083,15,1,3687,Tiers,500,Non,Non,3,0.4,13778
+306,28,Auvergne-Rhône-Alpes,40579,3,0,0,Tous risques,800,Non,Oui,1,0.26,13424
+307,73,Bretagne,23852,0,0,0,Tiers,800,Non,Non,5,0.47,13336
+308,76,Auvergne-Rhône-Alpes,9126,12,2,5450,Tiers,1000,Non,Non,1,0.29,2205
+309,34,Bretagne,52952,3,0,0,Tiers,500,Non,Oui,3,0.62,2580
+310,55,Île-de-France,40486,19,1,2692,Tous risques,800,Non,Oui,2,0.24,2207
+311,41,Nouvelle-Aquitaine,34060,17,0,0,Tiers,300,Oui,Oui,2,0.34,1819
+312,22,Auvergne-Rhône-Alpes,30852,5,3,16213,Tous risques,1000,Non,Oui,3,0.33,5622
+313,69,Nouvelle-Aquitaine,51764,2,0,0,Tous risques,800,Non,Non,2,0.09,10417
+314,51,Bretagne,72045,12,0,0,Tiers,1000,Non,Oui,1,0.26,5643
+315,23,Auvergne-Rhône-Alpes,40385,15,1,5563,Tous risques,1000,Non,Non,2,0.43,10944
+316,39,Provence-Alpes-Côte d'Azur,22644,4,3,11653,Tiers,300,Non,Oui,0,0.53,12394
+317,28,Nouvelle-Aquitaine,33146,3,1,6589,Tous risques,300,Non,Oui,2,0.06,10160
+318,65,Auvergne-Rhône-Alpes,40166,7,1,5247,Tous risques,300,Non,Non,3,0.15,7244
+319,33,Nouvelle-Aquitaine,6805,18,0,0,Tiers,500,Non,Non,1,0.3,4785
+320,50,Auvergne-Rhône-Alpes,39013,13,0,0,Tous risques,1000,Non,Oui,0,0.1,2303
+321,26,Île-de-France,40237,6,1,5663,Tous risques,800,Non,Non,2,0.08,7657
+322,77,Nouvelle-Aquitaine,50916,13,2,11985,Tous risques,300,Non,Oui,2,0.59,10934
+323,76,Provence-Alpes-Côte d'Azur,49665,5,1,3167,Tous risques,300,Non,Oui,2,0.09,8449
+324,23,Provence-Alpes-Côte d'Azur,36334,11,4,9120,Tiers,1000,Non,Oui,1,0.28,10961
+325,33,Bretagne,53175,15,0,0,Tous risques,1000,Non,Non,0,0.06,5360
+326,46,Auvergne-Rhône-Alpes,59428,16,2,10875,Tiers,1000,Non,Non,3,0.32,1468
+327,20,Nouvelle-Aquitaine,35335,12,0,0,Tiers,800,Oui,Non,1,0.17,11680
+328,37,Bretagne,40018,13,1,5419,Tiers,500,Non,Non,0,0.5,3685
+329,77,Nouvelle-Aquitaine,13792,6,1,1681,Tiers,500,Non,Non,2,0.24,9436
+330,76,Auvergne-Rhône-Alpes,17588,13,0,0,Tous risques,300,Non,Non,3,0.24,12162
+331,53,Provence-Alpes-Côte d'Azur,24941,14,0,0,Tous risques,500,Non,Non,1,0.19,2517
+332,36,Île-de-France,29676,11,3,7480,Tous risques,800,Non,Non,5,0.26,9178
+333,43,Provence-Alpes-Côte d'Azur,21846,16,0,0,Tiers,500,Non,Oui,1,0.35,10495
+334,20,Bretagne,34568,8,2,2841,Tous risques,800,Non,Non,0,0.69,11324
+335,36,Île-de-France,30035,14,1,1157,Tous risques,300,Oui,Non,3,0.29,2641
+336,37,Bretagne,47850,11,0,0,Tiers,1000,Non,Non,0,0.23,12464
+337,49,Auvergne-Rhône-Alpes,29302,1,0,0,Tiers,800,Non,Non,2,0.29,1865
+338,24,Île-de-France,7559,4,1,6445,Tous risques,1000,Non,Non,0,0.42,8033
+339,69,Bretagne,36509,12,3,18235,Tous risques,300,Non,Non,4,0.33,6929
+340,58,Auvergne-Rhône-Alpes,34829,19,0,0,Tous risques,800,Non,Oui,1,0.21,3715
+341,50,Provence-Alpes-Côte d'Azur,24655,7,0,0,Tous risques,800,Non,Non,3,0.46,4877
+342,57,Auvergne-Rhône-Alpes,36139,13,0,0,Tous risques,500,Non,Non,0,0.14,2884
+343,56,Nouvelle-Aquitaine,22096,14,3,15686,Tiers,800,Non,Non,1,0.13,6673
+344,35,Auvergne-Rhône-Alpes,38958,10,1,3034,Tous risques,300,Non,Non,2,0.37,1014
+345,57,Auvergne-Rhône-Alpes,66595,0,0,0,Tiers,1000,Non,Oui,2,0.44,13389
+346,18,Nouvelle-Aquitaine,13332,2,2,5342,Tous risques,800,Non,Non,2,0.04,2870
+347,28,Bretagne,28805,16,2,11259,Tous risques,300,Non,Non,0,0.06,13347
+348,45,Bretagne,26881,18,1,3107,Tous risques,300,Non,Non,1,0.67,13021
+349,74,Auvergne-Rhône-Alpes,29800,13,0,0,Tous risques,800,Non,Non,4,0.38,7049
+350,42,Nouvelle-Aquitaine,47239,7,2,5834,Tous risques,500,Non,Oui,1,0.51,7717
+351,67,Nouvelle-Aquitaine,41513,12,2,3962,Tous risques,800,Non,Oui,2,0.24,4877
+352,40,Provence-Alpes-Côte d'Azur,45185,19,1,3615,Tous risques,800,Non,Non,5,0.39,14954
+353,48,Bretagne,35365,2,1,3713,Tous risques,500,Non,Non,2,0.27,10226
+354,47,Île-de-France,19134,4,1,1096,Tous risques,300,Oui,Non,5,0.04,14301
+355,59,Bretagne,21623,8,1,1702,Tiers,800,Non,Non,4,0.17,6514
+356,52,Bretagne,43955,5,1,2109,Tous risques,500,Non,Oui,3,0.52,13303
+357,24,Provence-Alpes-Côte d'Azur,37049,1,0,0,Tous risques,1000,Oui,Oui,2,0.24,6999
+358,77,Île-de-France,50122,12,3,9147,Tiers,1000,Non,Non,1,0.18,13069
+359,33,Provence-Alpes-Côte d'Azur,38519,4,2,13575,Tous risques,500,Non,Non,1,0.12,2398
+360,43,Île-de-France,20803,7,0,0,Tous risques,300,Non,Non,3,0.11,9734
+361,65,Auvergne-Rhône-Alpes,28737,0,3,14296,Tous risques,500,Non,Non,3,0.26,10341
+362,74,Île-de-France,41777,19,1,3138,Tiers,300,Non,Non,1,0.31,10014
+363,69,Provence-Alpes-Côte d'Azur,43523,11,2,5881,Tous risques,1000,Non,Oui,4,0.42,6981
+364,77,Bretagne,45261,10,1,1138,Tous risques,800,Non,Non,2,0.41,10416
+365,66,Île-de-France,22417,6,2,8004,Tous risques,500,Non,Oui,5,0.12,3972
+366,19,Île-de-France,20587,14,1,3901,Tiers,1000,Non,Non,6,0.18,9139
+367,18,Nouvelle-Aquitaine,32722,10,0,0,Tiers,800,Oui,Non,1,0.33,8536
+368,65,Bretagne,52280,15,2,11171,Tous risques,1000,Non,Non,2,0.34,5115
+369,79,Auvergne-Rhône-Alpes,26673,2,0,0,Tous risques,500,Non,Oui,1,0.18,11793
+370,29,Provence-Alpes-Côte d'Azur,40459,19,1,3033,Tiers,500,Non,Non,2,0.49,1672
+371,22,Auvergne-Rhône-Alpes,40460,13,1,1881,Tiers,800,Oui,Non,2,0.33,2985
+372,54,Bretagne,44129,2,3,12938,Tiers,500,Non,Oui,0,0.32,7331
+373,49,Île-de-France,54973,0,0,0,Tous risques,1000,Non,Oui,2,0.21,13430
+374,76,Île-de-France,53742,14,0,0,Tiers,800,Non,Non,0,0.02,8839
+375,72,Bretagne,27864,0,2,4625,Tiers,800,Non,Non,5,0.24,12709
+376,26,Île-de-France,9825,16,2,8263,Tiers,1000,Non,Non,2,0.55,8004
+377,58,Île-de-France,26857,1,0,0,Tous risques,300,Non,Oui,0,0.15,11889
+378,52,Île-de-France,35908,19,0,0,Tous risques,800,Non,Non,1,0.22,5224
+379,36,Provence-Alpes-Côte d'Azur,30660,5,0,0,Tiers,300,Non,Oui,3,0.44,12319
+380,65,Provence-Alpes-Côte d'Azur,58614,7,2,3044,Tous risques,1000,Non,Non,3,0.07,6324
+381,33,Nouvelle-Aquitaine,35225,15,3,3657,Tiers,1000,Non,Non,2,0.37,8603
+382,20,Auvergne-Rhône-Alpes,42844,18,0,0,Tiers,800,Non,Non,3,0.3,3050
+383,37,Bretagne,37606,0,2,5531,Tous risques,500,Non,Non,3,0.52,13846
+384,41,Bretagne,30840,2,1,1518,Tous risques,800,Non,Oui,1,0.25,10671
+385,71,Bretagne,11902,2,4,22226,Tous risques,500,Non,Oui,0,0.54,12953
+386,73,Nouvelle-Aquitaine,34056,4,1,2884,Tiers,300,Non,Non,2,0.4,3514
+387,50,Provence-Alpes-Côte d'Azur,74055,11,2,7515,Tous risques,500,Oui,Oui,3,0.35,1481
+388,41,Nouvelle-Aquitaine,20066,11,2,4841,Tous risques,800,Non,Non,0,0.12,5389
+389,69,Bretagne,13221,19,2,9527,Tous risques,500,Non,Oui,3,0.41,7991
+390,28,Auvergne-Rhône-Alpes,58236,12,2,5617,Tiers,1000,Non,Non,1,0.23,12134
+391,66,Île-de-France,43904,19,1,6808,Tous risques,300,Non,Non,2,0.07,6267
+392,25,Provence-Alpes-Côte d'Azur,37249,8,1,5217,Tous risques,1000,Non,Oui,0,0.15,4414
+393,53,Provence-Alpes-Côte d'Azur,51352,6,1,1820,Tous risques,1000,Oui,Non,2,0.29,5901
+394,55,Nouvelle-Aquitaine,25021,3,4,14000,Tiers,1000,Non,Non,3,0.35,10702
+395,57,Provence-Alpes-Côte d'Azur,33720,18,0,0,Tous risques,1000,Oui,Non,2,0.1,5375
+396,37,Bretagne,46461,18,0,0,Tiers,500,Non,Non,0,0.05,14697
+397,79,Bretagne,60324,5,2,12103,Tous risques,1000,Oui,Non,1,0.39,3037
+398,52,Nouvelle-Aquitaine,20977,12,1,4500,Tiers,500,Oui,Non,2,0.4,11419
+399,65,Bretagne,50368,10,0,0,Tous risques,1000,Oui,Non,0,0.28,9042
+400,79,Auvergne-Rhône-Alpes,39582,12,4,19729,Tiers,800,Non,Oui,3,0.25,3879
+401,42,Nouvelle-Aquitaine,36956,12,1,1049,Tiers,1000,Non,Non,0,0.44,11427
+402,52,Auvergne-Rhône-Alpes,34907,19,0,0,Tiers,800,Non,Non,1,0.24,6989
+403,42,Île-de-France,18384,14,3,14999,Tiers,500,Oui,Oui,3,0.47,10394
+404,46,Auvergne-Rhône-Alpes,46557,12,0,0,Tous risques,300,Non,Non,2,0.53,10102
+405,35,Île-de-France,25612,10,1,2754,Tous risques,500,Non,Non,1,0.35,2104
+406,63,Île-de-France,22043,18,1,5789,Tous risques,300,Non,Oui,1,0.36,12679
+407,35,Auvergne-Rhône-Alpes,45625,7,0,0,Tiers,300,Non,Oui,0,0.09,10381
+408,19,Nouvelle-Aquitaine,44469,19,2,6227,Tous risques,1000,Non,Oui,3,0.15,11818
+409,71,Bretagne,35948,7,0,0,Tous risques,300,Non,Non,2,0.36,6992
+410,52,Bretagne,47954,9,1,4358,Tous risques,500,Non,Non,1,0.26,3328
+411,33,Île-de-France,52111,15,2,2100,Tous risques,1000,Oui,Non,3,0.14,5230
+412,78,Île-de-France,50698,18,1,1496,Tous risques,300,Non,Oui,1,0.21,13571
+413,58,Nouvelle-Aquitaine,28660,10,1,1757,Tous risques,500,Non,Non,1,0.4,14101
+414,53,Provence-Alpes-Côte d'Azur,47169,12,1,2112,Tous risques,300,Non,Non,2,0.62,7487
+415,50,Auvergne-Rhône-Alpes,37539,8,2,8144,Tiers,300,Non,Non,6,0.25,4832
+416,21,Île-de-France,55710,19,1,6953,Tiers,1000,Non,Non,1,0.08,11089
+417,50,Bretagne,33515,18,1,4915,Tous risques,1000,Non,Non,2,0.37,11606
+418,31,Nouvelle-Aquitaine,30722,15,0,0,Tous risques,500,Non,Non,4,0.51,12324
+419,38,Auvergne-Rhône-Alpes,27634,6,1,4153,Tiers,1000,Non,Non,3,0.29,950
+420,65,Nouvelle-Aquitaine,37271,18,5,19899,Tiers,1000,Non,Non,3,0.07,641
+421,37,Auvergne-Rhône-Alpes,40600,11,1,1865,Tous risques,800,Non,Oui,0,0.1,5678
+422,73,Auvergne-Rhône-Alpes,40831,14,1,6521,Tous risques,800,Oui,Non,3,0.46,2711
+423,25,Île-de-France,39190,13,2,7289,Tiers,500,Non,Non,0,0.02,12172
+424,24,Nouvelle-Aquitaine,43052,10,1,6967,Tous risques,1000,Non,Oui,1,0.21,8226
+425,20,Nouvelle-Aquitaine,32329,9,2,7040,Tous risques,500,Non,Oui,2,0.18,12467
+426,34,Bretagne,24529,10,0,0,Tous risques,800,Non,Non,3,0.39,3065
+427,50,Bretagne,23482,5,0,0,Tiers,800,Non,Oui,3,0.32,9594
+428,65,Île-de-France,46700,1,0,0,Tous risques,800,Oui,Non,1,0.35,8912
+429,29,Île-de-France,40643,10,2,4865,Tous risques,500,Oui,Non,2,0.25,5435
+430,76,Provence-Alpes-Côte d'Azur,12729,18,3,18040,Tiers,1000,Oui,Non,6,0.06,7997
+431,68,Bretagne,48161,5,1,5703,Tous risques,300,Non,Oui,0,0.42,9040
+432,39,Auvergne-Rhône-Alpes,57565,13,0,0,Tiers,1000,Non,Non,1,0.27,13397
+433,72,Nouvelle-Aquitaine,26408,19,0,0,Tiers,500,Non,Oui,0,0.3,1306
+434,39,Île-de-France,39033,5,3,17988,Tous risques,800,Non,Non,5,0.19,12438
+435,63,Nouvelle-Aquitaine,29318,16,1,2204,Tiers,300,Non,Oui,2,0.41,14712
+436,47,Nouvelle-Aquitaine,42539,9,0,0,Tiers,500,Non,Non,2,0.09,11110
+437,55,Provence-Alpes-Côte d'Azur,21007,0,4,20604,Tous risques,800,Non,Oui,1,0.41,11191
+438,55,Bretagne,34142,2,0,0,Tiers,500,Non,Oui,0,0.12,3660
+439,62,Île-de-France,46775,7,1,5298,Tous risques,300,Non,Oui,3,0.78,8084
+440,68,Nouvelle-Aquitaine,49828,7,2,4691,Tous risques,800,Non,Non,3,0.52,10736
+441,71,Île-de-France,40117,19,0,0,Tiers,1000,Non,Non,2,0.17,9233
+442,25,Auvergne-Rhône-Alpes,30931,14,0,0,Tiers,500,Non,Oui,2,0.44,6084
+443,44,Provence-Alpes-Côte d'Azur,15888,6,1,4361,Tous risques,300,Oui,Non,4,0.4,14131
+444,44,Auvergne-Rhône-Alpes,25909,10,2,3845,Tous risques,1000,Oui,Oui,2,0.33,7952
+445,51,Île-de-France,29368,6,0,0,Tiers,300,Non,Non,2,0.14,14563
+446,38,Île-de-France,26627,3,0,0,Tiers,500,Non,Oui,2,0.14,8676
+447,47,Bretagne,35714,11,1,2017,Tous risques,300,Oui,Non,1,0.35,12004
+448,50,Nouvelle-Aquitaine,30897,5,1,5904,Tiers,800,Non,Non,0,0.45,11259
+449,45,Nouvelle-Aquitaine,37065,13,2,13198,Tous risques,300,Non,Non,1,0.03,10081
+450,64,Auvergne-Rhône-Alpes,49431,11,1,6630,Tous risques,500,Non,Oui,3,0.24,709
+451,50,Provence-Alpes-Côte d'Azur,30122,10,0,0,Tous risques,800,Non,Oui,3,0.19,1622
+452,22,Nouvelle-Aquitaine,18405,18,3,12835,Tiers,300,Oui,Non,4,0.21,8931
+453,77,Bretagne,26579,4,3,9411,Tiers,300,Oui,Oui,3,0.23,13720
+454,78,Auvergne-Rhône-Alpes,42003,13,3,3130,Tous risques,800,Oui,Non,1,0.04,9216
+455,65,Auvergne-Rhône-Alpes,43135,15,1,1365,Tiers,1000,Non,Oui,2,0.17,3921
+456,36,Bretagne,39873,12,1,3573,Tiers,1000,Non,Oui,3,0.6,5143
+457,21,Provence-Alpes-Côte d'Azur,50608,19,2,6791,Tous risques,800,Non,Oui,1,0.46,9535
+458,52,Bretagne,32763,3,0,0,Tiers,300,Non,Non,0,0.34,9157
+459,66,Provence-Alpes-Côte d'Azur,59625,10,0,0,Tous risques,1000,Non,Non,3,0.19,14357
+460,34,Bretagne,44818,16,1,2047,Tous risques,800,Non,Non,1,0.54,8171
+461,61,Bretagne,4718,6,0,0,Tous risques,500,Oui,Oui,1,0.27,5647
+462,45,Île-de-France,56607,13,0,0,Tous risques,300,Oui,Non,1,0.03,8112
+463,47,Auvergne-Rhône-Alpes,25796,10,1,4591,Tous risques,500,Non,Non,0,0.08,11900
+464,46,Bretagne,22590,8,1,4017,Tiers,300,Non,Non,1,0.26,8335
+465,63,Bretagne,41285,12,1,1311,Tiers,1000,Oui,Oui,2,0.25,5227
+466,70,Nouvelle-Aquitaine,14141,17,1,6653,Tous risques,500,Non,Non,4,0.67,5410
+467,23,Auvergne-Rhône-Alpes,26654,10,4,16653,Tous risques,500,Non,Non,1,0.27,11473
+468,52,Nouvelle-Aquitaine,53685,14,2,5900,Tiers,800,Non,Non,2,0.51,1463
+469,77,Auvergne-Rhône-Alpes,41674,18,2,3897,Tous risques,1000,Oui,Oui,2,0.5,4483
+470,58,Nouvelle-Aquitaine,44746,0,0,0,Tous risques,1000,Oui,Oui,0,0.42,2719
+471,54,Bretagne,27117,3,0,0,Tiers,300,Oui,Oui,1,0.35,14197
+472,41,Bretagne,16539,13,1,3181,Tous risques,800,Non,Non,0,0.25,1806
+473,46,Île-de-France,43481,13,0,0,Tiers,800,Non,Non,3,0.42,11493
+474,66,Nouvelle-Aquitaine,46163,2,0,0,Tous risques,300,Non,Non,5,0.38,9641
+475,63,Provence-Alpes-Côte d'Azur,45619,16,2,10248,Tous risques,500,Non,Non,3,0.13,9675
+476,70,Île-de-France,37508,2,0,0,Tiers,300,Non,Non,0,0.38,11569
+477,48,Nouvelle-Aquitaine,23395,15,0,0,Tiers,300,Non,Non,0,0.13,6307
+478,52,Nouvelle-Aquitaine,64253,13,2,7137,Tous risques,300,Non,Non,1,0.36,6310
+479,77,Île-de-France,40757,19,0,0,Tous risques,800,Non,Non,1,0.13,4686
+480,50,Bretagne,32913,12,2,2334,Tous risques,300,Non,Non,1,0.12,9167
+481,69,Nouvelle-Aquitaine,32966,14,0,0,Tiers,300,Non,Non,1,0.05,13982
+482,78,Bretagne,36795,13,2,2234,Tiers,300,Non,Non,3,0.5,13897
+483,38,Île-de-France,47835,18,2,11968,Tiers,1000,Non,Non,1,0.2,10692
+484,49,Bretagne,37275,5,2,3729,Tous risques,500,Oui,Non,1,0.29,13639
+485,40,Auvergne-Rhône-Alpes,45302,9,1,6848,Tiers,500,Non,Oui,2,0.4,14471
+486,50,Provence-Alpes-Côte d'Azur,36816,14,1,4623,Tiers,500,Oui,Non,2,0.34,12029
+487,20,Nouvelle-Aquitaine,33651,19,2,10819,Tous risques,500,Non,Oui,2,0.1,6413
+488,35,Provence-Alpes-Côte d'Azur,42695,5,2,3325,Tous risques,800,Non,Oui,3,0.56,7506
+489,42,Bretagne,42239,9,2,12345,Tiers,800,Non,Non,1,0.22,14003
+490,59,Nouvelle-Aquitaine,32964,6,1,6035,Tous risques,300,Non,Non,0,0.43,10215
+491,48,Bretagne,26009,16,0,0,Tous risques,800,Non,Non,3,0.13,12400
+492,71,Auvergne-Rhône-Alpes,39100,17,2,8027,Tiers,500,Non,Non,4,0.22,2183
+493,75,Île-de-France,35940,16,1,5328,Tiers,1000,Non,Oui,4,0.35,3311
+494,20,Nouvelle-Aquitaine,28341,8,2,2071,Tiers,300,Non,Oui,1,0.23,5489
+495,57,Auvergne-Rhône-Alpes,24891,9,0,0,Tous risques,300,Oui,Non,5,0.78,3229
+496,63,Auvergne-Rhône-Alpes,39925,9,3,18253,Tous risques,500,Non,Non,1,0.4,13643
+497,41,Nouvelle-Aquitaine,41601,6,1,3141,Tiers,500,Oui,Oui,2,0.31,3644
+498,67,Bretagne,30679,15,2,3299,Tiers,500,Non,Non,5,0.33,8579
+499,49,Auvergne-Rhône-Alpes,28040,17,1,3525,Tous risques,800,Oui,Non,3,0.11,1739
+500,64,Provence-Alpes-Côte d'Azur,25036,5,2,10725,Tous risques,300,Non,Non,5,0.24,2746
+501,39,Auvergne-Rhône-Alpes,39587,19,1,1643,Tous risques,500,Non,Non,2,0.42,4087
+502,40,Bretagne,25352,0,1,2236,Tous risques,1000,Non,Non,4,0.13,14751
+503,19,Bretagne,61893,0,1,1885,Tous risques,300,Non,Non,3,0.54,12057
+504,44,Provence-Alpes-Côte d'Azur,30076,11,2,11563,Tous risques,300,Non,Non,3,0.4,10266
+505,59,Auvergne-Rhône-Alpes,5897,1,2,2754,Tiers,800,Non,Oui,1,0.12,13785
+506,19,Bretagne,34637,3,0,0,Tous risques,300,Non,Non,1,0.14,14365
+507,43,Nouvelle-Aquitaine,34123,16,1,3198,Tiers,500,Non,Non,0,0.12,7076
+508,34,Île-de-France,48340,3,0,0,Tous risques,500,Non,Oui,2,0.11,5251
+509,57,Île-de-France,38457,10,1,6786,Tous risques,1000,Non,Oui,1,0.06,5072
+510,50,Île-de-France,24993,3,0,0,Tous risques,300,Non,Non,1,0.12,1018
+511,26,Auvergne-Rhône-Alpes,31563,0,0,0,Tiers,300,Non,Non,3,0.56,4554
+512,60,Provence-Alpes-Côte d'Azur,38929,6,0,0,Tiers,800,Non,Non,1,0.29,5648
+513,71,Bretagne,9023,17,0,0,Tiers,500,Oui,Oui,3,0.1,1035
+514,65,Nouvelle-Aquitaine,51063,8,1,2290,Tiers,1000,Non,Non,2,0.42,13297
+515,56,Nouvelle-Aquitaine,25025,2,1,5952,Tous risques,500,Oui,Non,3,0.59,12793
+516,46,Auvergne-Rhône-Alpes,52004,7,1,6922,Tous risques,300,Non,Oui,2,0.23,4146
+517,59,Île-de-France,39709,18,2,8682,Tiers,300,Non,Non,2,0.36,12137
+518,72,Auvergne-Rhône-Alpes,42555,3,2,5336,Tiers,1000,Non,Oui,3,0.66,12045
+519,43,Provence-Alpes-Côte d'Azur,48793,17,3,10174,Tous risques,300,Oui,Oui,2,0.05,5357
+520,52,Provence-Alpes-Côte d'Azur,41877,19,4,8083,Tiers,1000,Non,Non,1,0.28,10607
+521,67,Bretagne,43074,10,1,5571,Tous risques,1000,Oui,Non,2,0.28,4702
+522,42,Bretagne,33027,13,0,0,Tiers,500,Non,Oui,2,0.26,1519
+523,41,Provence-Alpes-Côte d'Azur,39466,17,1,6250,Tiers,1000,Non,Non,0,0.38,7819
+524,30,Provence-Alpes-Côte d'Azur,27950,15,0,0,Tiers,300,Non,Oui,0,0.3,6855
+525,77,Provence-Alpes-Côte d'Azur,30879,2,1,4371,Tiers,800,Non,Oui,2,0.14,2503
+526,75,Auvergne-Rhône-Alpes,58576,14,2,4571,Tous risques,800,Oui,Non,4,0.31,7613
+527,24,Provence-Alpes-Côte d'Azur,25301,3,0,0,Tiers,300,Non,Non,2,0.41,14265
+528,74,Nouvelle-Aquitaine,36851,4,0,0,Tous risques,800,Non,Oui,2,0.31,11105
+529,53,Île-de-France,36361,16,1,2152,Tous risques,800,Non,Non,4,0.31,11213
+530,62,Provence-Alpes-Côte d'Azur,31270,6,1,4830,Tiers,1000,Non,Oui,2,0.07,11484
+531,37,Île-de-France,41172,15,1,4927,Tiers,800,Non,Non,3,0.15,11297
+532,18,Auvergne-Rhône-Alpes,42076,13,1,6724,Tous risques,800,Oui,Non,2,0.7,788
+533,25,Île-de-France,23890,15,1,5650,Tous risques,800,Non,Non,2,0.04,13908
+534,63,Auvergne-Rhône-Alpes,36216,6,1,5821,Tous risques,500,Non,Oui,0,0.19,12536
+535,33,Nouvelle-Aquitaine,22011,8,1,4189,Tiers,300,Oui,Non,3,0.34,4481
+536,31,Auvergne-Rhône-Alpes,44462,3,0,0,Tiers,1000,Non,Non,1,0.26,8514
+537,29,Auvergne-Rhône-Alpes,37117,10,0,0,Tiers,800,Oui,Non,1,0.32,9417
+538,68,Bretagne,35987,1,2,8593,Tous risques,300,Non,Non,1,0.29,2413
+539,40,Provence-Alpes-Côte d'Azur,42908,11,0,0,Tous risques,800,Non,Non,4,0.18,4182
+540,32,Provence-Alpes-Côte d'Azur,31693,11,0,0,Tous risques,500,Oui,Non,1,0.24,837
+541,45,Nouvelle-Aquitaine,45968,3,0,0,Tous risques,500,Oui,Non,2,0.3,13027
+542,51,Nouvelle-Aquitaine,23618,17,0,0,Tiers,800,Oui,Non,0,0.02,861
+543,19,Provence-Alpes-Côte d'Azur,51942,6,2,4018,Tous risques,800,Non,Non,2,0.44,5121
+544,49,Bretagne,28389,0,1,5163,Tous risques,800,Non,Non,0,0.54,1634
+545,40,Provence-Alpes-Côte d'Azur,14645,12,1,4872,Tiers,500,Oui,Non,4,0.38,11830
+546,39,Bretagne,31057,5,4,20496,Tous risques,500,Non,Non,1,0.11,13912
+547,68,Nouvelle-Aquitaine,29696,5,1,3235,Tous risques,300,Non,Non,5,0.14,8660
+548,42,Île-de-France,30967,11,2,5148,Tous risques,1000,Non,Non,2,0.1,2523
+549,75,Nouvelle-Aquitaine,37779,7,1,5558,Tous risques,1000,Non,Non,2,0.07,8593
+550,79,Nouvelle-Aquitaine,48174,18,4,22567,Tiers,500,Non,Non,4,0.29,11669
+551,78,Auvergne-Rhône-Alpes,32699,4,4,14934,Tous risques,1000,Non,Non,0,0.14,10917
+552,39,Auvergne-Rhône-Alpes,26700,17,3,14014,Tiers,800,Non,Non,1,0.1,11254
+553,75,Auvergne-Rhône-Alpes,21481,4,0,0,Tous risques,300,Non,Non,5,0.43,4548
+554,75,Auvergne-Rhône-Alpes,29381,9,1,5211,Tiers,500,Non,Non,1,0.57,1569
+555,39,Bretagne,12346,0,0,0,Tous risques,500,Non,Oui,1,0.73,2659
+556,66,Provence-Alpes-Côte d'Azur,26298,9,0,0,Tous risques,1000,Non,Non,1,0.1,14354
+557,69,Île-de-France,49928,4,1,4075,Tous risques,800,Oui,Non,1,0.17,9395
+558,59,Nouvelle-Aquitaine,25119,11,1,3751,Tiers,300,Oui,Non,1,0.19,11054
+559,23,Bretagne,42544,6,4,19415,Tiers,1000,Oui,Oui,1,0.42,13536
+560,32,Île-de-France,20282,8,2,10157,Tous risques,500,Non,Non,3,0.51,12864
+561,71,Bretagne,56253,11,0,0,Tous risques,500,Non,Non,3,0.26,3666
+562,60,Bretagne,57051,0,1,4749,Tous risques,1000,Non,Oui,1,0.13,1341
+563,77,Nouvelle-Aquitaine,42092,10,1,1579,Tiers,800,Non,Oui,2,0.15,13914
+564,54,Provence-Alpes-Côte d'Azur,58895,14,1,6710,Tous risques,300,Non,Non,3,0.17,14734
+565,50,Auvergne-Rhône-Alpes,39269,1,0,0,Tous risques,300,Oui,Non,3,0.22,8726
+566,25,Provence-Alpes-Côte d'Azur,44222,19,1,3243,Tous risques,300,Non,Oui,1,0.31,13381
+567,70,Nouvelle-Aquitaine,50143,6,3,13130,Tous risques,300,Oui,Non,2,0.53,3861
+568,77,Nouvelle-Aquitaine,37156,11,1,1283,Tous risques,800,Oui,Non,3,0.34,2110
+569,61,Nouvelle-Aquitaine,16371,17,0,0,Tiers,500,Non,Non,5,0.22,7747
+570,61,Île-de-France,44467,2,1,2504,Tiers,500,Non,Non,2,0.37,12262
+571,22,Provence-Alpes-Côte d'Azur,29337,6,0,0,Tous risques,300,Non,Non,5,0.17,9992
+572,56,Provence-Alpes-Côte d'Azur,30229,10,2,12225,Tiers,300,Non,Non,2,0.2,9741
+573,21,Bretagne,38574,17,0,0,Tous risques,300,Non,Oui,4,0.24,753
+574,23,Bretagne,41795,11,1,4192,Tous risques,1000,Non,Oui,2,0.47,5103
+575,62,Bretagne,36801,5,1,3413,Tous risques,1000,Non,Non,2,0.19,14122
+576,49,Nouvelle-Aquitaine,42628,4,2,3939,Tous risques,500,Non,Oui,1,0.29,2446
+577,69,Provence-Alpes-Côte d'Azur,26517,0,2,3420,Tiers,500,Non,Non,2,0.37,11032
+578,47,Nouvelle-Aquitaine,34487,11,1,5564,Tiers,300,Non,Oui,1,0.48,11510
+579,64,Île-de-France,45189,10,0,0,Tous risques,1000,Non,Oui,1,0.11,11126
+580,52,Bretagne,56273,3,2,7499,Tiers,800,Non,Non,0,0.42,14844
+581,72,Nouvelle-Aquitaine,60517,17,1,4956,Tous risques,1000,Non,Non,2,0.46,6433
+582,57,Nouvelle-Aquitaine,40195,3,3,19460,Tous risques,500,Non,Non,5,0.07,10391
+583,69,Île-de-France,45080,16,2,3081,Tiers,1000,Non,Oui,3,0.38,3307
+584,33,Auvergne-Rhône-Alpes,58778,1,0,0,Tiers,500,Non,Oui,1,0.34,6295
+585,30,Provence-Alpes-Côte d'Azur,26949,1,1,4700,Tous risques,300,Non,Non,2,0.39,7627
+586,67,Auvergne-Rhône-Alpes,42556,11,0,0,Tous risques,800,Non,Non,2,0.26,3614
+587,77,Bretagne,44220,5,0,0,Tiers,300,Oui,Non,2,0.64,13648
+588,59,Nouvelle-Aquitaine,52374,9,2,10206,Tous risques,300,Non,Oui,3,0.2,10884
+589,47,Île-de-France,21354,15,2,11537,Tous risques,800,Non,Non,6,0.2,4614
+590,36,Île-de-France,23727,13,0,0,Tous risques,800,Non,Non,3,0.17,2456
+591,34,Provence-Alpes-Côte d'Azur,35256,6,3,12603,Tiers,800,Non,Non,3,0.21,4674
+592,73,Auvergne-Rhône-Alpes,39532,18,0,0,Tiers,500,Non,Non,3,0.24,9533
+593,36,Provence-Alpes-Côte d'Azur,48474,16,2,12470,Tous risques,300,Oui,Non,1,0.13,12482
+594,45,Nouvelle-Aquitaine,41210,8,0,0,Tous risques,500,Oui,Non,2,0.23,7795
+595,75,Provence-Alpes-Côte d'Azur,33183,12,2,11695,Tous risques,800,Non,Non,2,0.07,1986
+596,72,Île-de-France,39997,4,2,6417,Tous risques,500,Non,Non,0,0.08,4115
+597,43,Île-de-France,38612,4,3,5251,Tous risques,800,Non,Oui,2,0.38,5504
+598,54,Bretagne,55940,9,0,0,Tiers,1000,Oui,Oui,3,0.4,9723
+599,43,Bretagne,36987,9,0,0,Tous risques,800,Oui,Non,2,0.24,4076
+600,70,Nouvelle-Aquitaine,30402,6,3,7396,Tous risques,300,Non,Oui,1,0.44,3891
+601,79,Auvergne-Rhône-Alpes,40395,14,2,8724,Tiers,300,Oui,Oui,2,0.02,4649
+602,40,Provence-Alpes-Côte d'Azur,37381,6,2,2260,Tiers,300,Oui,Non,1,0.29,9091
+603,26,Nouvelle-Aquitaine,16148,14,2,8246,Tous risques,500,Non,Non,2,0.25,7643
+604,29,Bretagne,34812,2,1,3350,Tiers,300,Non,Non,0,0.29,12703
+605,70,Provence-Alpes-Côte d'Azur,33791,18,3,13388,Tiers,800,Non,Non,0,0.15,10620
+606,18,Bretagne,28473,9,2,10429,Tous risques,1000,Non,Non,4,0.38,10168
+607,75,Provence-Alpes-Côte d'Azur,47426,14,3,14413,Tous risques,300,Non,Non,3,0.45,2742
+608,75,Auvergne-Rhône-Alpes,25571,2,1,6907,Tous risques,500,Non,Non,0,0.22,1300
+609,18,Nouvelle-Aquitaine,40467,5,1,1829,Tous risques,1000,Non,Oui,0,0.29,7894
+610,64,Provence-Alpes-Côte d'Azur,33225,11,0,0,Tiers,300,Oui,Oui,3,0.21,1538
+611,51,Île-de-France,36292,14,0,0,Tiers,300,Non,Non,2,0.3,5778
+612,49,Île-de-France,39941,5,0,0,Tiers,1000,Non,Oui,4,0.44,878
+613,79,Provence-Alpes-Côte d'Azur,19309,12,1,4982,Tiers,300,Oui,Oui,4,0.32,3063
+614,71,Provence-Alpes-Côte d'Azur,37299,18,3,11816,Tous risques,500,Non,Oui,1,0.18,2100
+615,65,Provence-Alpes-Côte d'Azur,62467,2,1,4104,Tous risques,800,Non,Non,0,0.13,12114
+616,42,Île-de-France,16318,7,1,3594,Tous risques,800,Non,Non,3,0.32,5518
+617,57,Île-de-France,34308,7,0,0,Tiers,1000,Non,Non,3,0.71,1643
+618,62,Provence-Alpes-Côte d'Azur,48478,19,1,6565,Tiers,800,Non,Oui,1,0.06,4349
+619,70,Bretagne,38619,14,2,5692,Tous risques,300,Non,Non,1,0.03,10400
+620,18,Bretagne,43255,3,1,1669,Tous risques,300,Non,Oui,4,0.13,11311
+621,33,Auvergne-Rhône-Alpes,6492,18,1,6038,Tiers,500,Non,Non,2,0.07,2238
+622,78,Nouvelle-Aquitaine,42178,2,2,13966,Tous risques,800,Non,Non,1,0.13,11789
+623,56,Bretagne,25859,12,4,11022,Tiers,1000,Oui,Non,1,0.13,5873
+624,22,Île-de-France,38718,7,1,3146,Tiers,300,Non,Non,1,0.2,10351
+625,39,Bretagne,34646,15,0,0,Tous risques,1000,Non,Non,3,0.43,10236
+626,46,Auvergne-Rhône-Alpes,62339,12,2,10533,Tiers,300,Oui,Non,1,0.53,12007
+627,72,Auvergne-Rhône-Alpes,41560,2,0,0,Tous risques,300,Non,Non,2,0.2,10609
+628,20,Nouvelle-Aquitaine,33648,15,1,4486,Tiers,500,Non,Non,2,0.52,1063
+629,29,Bretagne,16883,8,0,0,Tiers,800,Non,Non,1,0.32,8032
+630,43,Île-de-France,36453,13,0,0,Tiers,500,Oui,Non,2,0.48,2909
+631,33,Île-de-France,44878,12,1,5450,Tous risques,800,Non,Non,1,0.29,14564
+632,68,Provence-Alpes-Côte d'Azur,34033,6,0,0,Tous risques,1000,Non,Non,0,0.15,4209
+633,54,Île-de-France,28932,14,1,2068,Tous risques,800,Non,Oui,0,0.47,6591
+634,39,Nouvelle-Aquitaine,28128,6,5,29740,Tous risques,1000,Oui,Non,5,0.43,3352
+635,74,Nouvelle-Aquitaine,41421,5,2,5313,Tous risques,300,Non,Non,1,0.15,2451
+636,46,Île-de-France,44112,1,0,0,Tiers,1000,Non,Non,0,0.3,9213
+637,31,Île-de-France,51334,8,2,6375,Tiers,1000,Non,Oui,5,0.54,7651
+638,45,Provence-Alpes-Côte d'Azur,23060,16,2,12291,Tiers,300,Non,Non,2,0.1,5932
+639,22,Île-de-France,41311,4,3,7792,Tiers,1000,Non,Non,2,0.44,1738
+640,64,Provence-Alpes-Côte d'Azur,33539,11,3,12261,Tous risques,1000,Non,Non,3,0.14,11171
+641,66,Provence-Alpes-Côte d'Azur,33893,0,2,3282,Tiers,300,Non,Non,2,0.13,584
+642,47,Île-de-France,39821,9,0,0,Tiers,300,Non,Non,0,0.25,7136
+643,63,Auvergne-Rhône-Alpes,39891,10,2,12032,Tiers,300,Non,Non,1,0.17,9672
+644,79,Auvergne-Rhône-Alpes,41345,15,0,0,Tous risques,800,Non,Oui,2,0.12,6745
+645,69,Provence-Alpes-Côte d'Azur,22310,13,0,0,Tous risques,300,Oui,Non,0,0.27,2330
+646,22,Île-de-France,26002,7,1,1270,Tous risques,300,Non,Non,0,0.13,11784
+647,29,Auvergne-Rhône-Alpes,52830,16,1,6600,Tiers,1000,Non,Non,0,0.37,5197
+648,33,Île-de-France,32353,17,2,10465,Tiers,500,Oui,Non,1,0.41,2453
+649,43,Île-de-France,38672,11,4,21900,Tiers,500,Non,Non,2,0.06,8478
+650,43,Île-de-France,47655,16,0,0,Tous risques,800,Oui,Non,2,0.29,777
+651,65,Bretagne,40561,13,1,5486,Tiers,800,Non,Non,1,0.4,5198
+652,38,Île-de-France,41558,15,1,3646,Tous risques,500,Non,Non,0,0.51,11384
+653,56,Bretagne,45734,13,2,10803,Tous risques,500,Non,Non,3,0.24,13734
+654,53,Provence-Alpes-Côte d'Azur,9600,8,1,4750,Tiers,300,Non,Non,3,0.08,9080
+655,50,Auvergne-Rhône-Alpes,29120,3,0,0,Tiers,1000,Non,Non,3,0.17,3655
+656,79,Auvergne-Rhône-Alpes,40623,10,3,17444,Tiers,300,Non,Oui,1,0.76,3690
+657,47,Auvergne-Rhône-Alpes,51651,5,2,2496,Tous risques,800,Non,Non,2,0.24,9256
+658,54,Auvergne-Rhône-Alpes,35793,14,3,9819,Tous risques,500,Non,Non,1,0.24,6398
+659,40,Auvergne-Rhône-Alpes,24863,4,2,2416,Tous risques,800,Non,Oui,2,0.15,3070
+660,75,Auvergne-Rhône-Alpes,25182,10,2,3224,Tous risques,300,Non,Non,2,0.19,11917
+661,27,Auvergne-Rhône-Alpes,45606,17,0,0,Tous risques,800,Non,Non,1,0.29,3403
+662,71,Provence-Alpes-Côte d'Azur,32386,12,1,6242,Tous risques,800,Non,Non,0,0.2,5163
+663,22,Île-de-France,34913,10,3,5156,Tiers,1000,Non,Non,0,0.3,1390
+664,53,Nouvelle-Aquitaine,42380,13,3,11119,Tiers,800,Non,Non,3,0.54,10669
+665,51,Bretagne,181,17,1,6465,Tiers,300,Oui,Non,2,0.28,4491
+666,69,Nouvelle-Aquitaine,59004,18,3,17657,Tous risques,1000,Non,Non,0,0.31,3876
+667,48,Nouvelle-Aquitaine,26227,14,2,8236,Tiers,800,Non,Non,1,0.43,4898
+668,27,Île-de-France,37903,8,1,5629,Tous risques,300,Non,Non,0,0.66,13174
+669,75,Île-de-France,14543,7,0,0,Tiers,500,Non,Non,1,0.27,8011
+670,36,Île-de-France,29929,19,0,0,Tous risques,1000,Non,Non,2,0.35,2789
+671,75,Auvergne-Rhône-Alpes,49936,0,0,0,Tiers,800,Oui,Oui,1,0.4,11729
+672,49,Provence-Alpes-Côte d'Azur,12005,3,1,2130,Tiers,800,Non,Oui,3,0.3,3522
+673,18,Auvergne-Rhône-Alpes,48514,13,0,0,Tous risques,1000,Non,Non,3,0.62,6480
+674,73,Provence-Alpes-Côte d'Azur,31715,1,3,19749,Tous risques,300,Non,Oui,3,0.33,8737
+675,22,Provence-Alpes-Côte d'Azur,40845,15,1,5798,Tous risques,800,Non,Non,1,0.43,8974
+676,62,Nouvelle-Aquitaine,42890,2,1,3596,Tiers,300,Oui,Non,2,0.18,1500
+677,21,Nouvelle-Aquitaine,40297,7,1,3958,Tiers,1000,Non,Oui,2,0.16,12633
+678,33,Provence-Alpes-Côte d'Azur,24620,5,2,5187,Tous risques,800,Non,Oui,1,0.27,7451
+679,41,Provence-Alpes-Côte d'Azur,30625,15,0,0,Tous risques,500,Non,Non,1,0.61,14844
+680,33,Auvergne-Rhône-Alpes,17461,15,3,17449,Tiers,500,Non,Non,0,0.5,10902
+681,72,Auvergne-Rhône-Alpes,40901,6,2,4866,Tous risques,500,Non,Non,1,0.43,14892
+682,19,Nouvelle-Aquitaine,55424,12,3,3752,Tous risques,1000,Oui,Non,0,0.08,7075
+683,66,Île-de-France,13106,12,1,4743,Tous risques,800,Non,Oui,1,0.25,2541
+684,45,Provence-Alpes-Côte d'Azur,25860,4,1,4375,Tiers,1000,Non,Oui,0,0.57,11045
+685,49,Auvergne-Rhône-Alpes,32818,19,0,0,Tiers,800,Non,Non,3,0.59,11777
+686,44,Nouvelle-Aquitaine,37080,17,1,4863,Tous risques,500,Non,Non,3,0.6,12866
+687,37,Auvergne-Rhône-Alpes,45550,14,2,8607,Tous risques,500,Non,Non,3,0.05,4871
+688,41,Provence-Alpes-Côte d'Azur,33173,17,2,5006,Tous risques,300,Non,Non,1,0.31,7904
+689,29,Provence-Alpes-Côte d'Azur,31208,1,3,10159,Tiers,1000,Oui,Non,0,0.31,12933
+690,67,Bretagne,48237,9,1,3568,Tiers,1000,Non,Oui,2,0.19,13038
+691,52,Île-de-France,42943,12,1,6281,Tous risques,300,Oui,Oui,2,0.62,872
+692,77,Bretagne,41467,17,0,0,Tiers,500,Non,Non,1,0.12,10228
+693,50,Nouvelle-Aquitaine,36350,14,3,19074,Tiers,500,Non,Non,2,0.17,9224
+694,50,Auvergne-Rhône-Alpes,46797,11,0,0,Tiers,1000,Non,Oui,1,0.06,1708
+695,78,Nouvelle-Aquitaine,27124,14,1,4509,Tous risques,800,Non,Non,6,0.13,13986
+696,68,Provence-Alpes-Côte d'Azur,25487,12,2,10271,Tiers,500,Non,Non,0,0.34,6957
+697,60,Bretagne,43953,17,1,6634,Tous risques,300,Non,Non,0,0.29,10276
+698,54,Bretagne,15499,14,0,0,Tous risques,300,Non,Oui,1,0.23,13300
+699,29,Bretagne,36106,10,1,4210,Tous risques,300,Non,Non,3,0.2,2386
+700,20,Nouvelle-Aquitaine,31201,18,4,20550,Tous risques,1000,Non,Non,1,0.19,12909
+701,18,Provence-Alpes-Côte d'Azur,18130,2,0,0,Tiers,1000,Non,Oui,2,0.25,11002
+702,50,Auvergne-Rhône-Alpes,23824,6,1,2513,Tous risques,1000,Non,Non,3,0.58,12674
+703,57,Auvergne-Rhône-Alpes,33692,13,2,9040,Tous risques,1000,Oui,Non,1,0.43,7675
+704,27,Nouvelle-Aquitaine,47407,13,2,11550,Tous risques,300,Non,Non,2,0.39,985
+705,60,Bretagne,27164,12,1,3850,Tous risques,300,Oui,Non,1,0.52,10222
+706,61,Île-de-France,49560,11,0,0,Tous risques,1000,Non,Oui,2,0.3,5930
+707,46,Nouvelle-Aquitaine,35758,8,1,3159,Tous risques,1000,Oui,Non,5,0.07,6335
+708,30,Nouvelle-Aquitaine,50724,0,0,0,Tiers,300,Oui,Non,0,0.47,6898
+709,29,Provence-Alpes-Côte d'Azur,27746,18,2,8407,Tous risques,1000,Non,Non,2,0.31,7647
+710,48,Auvergne-Rhône-Alpes,34414,10,1,4575,Tous risques,1000,Non,Non,3,0.43,10098
+711,63,Nouvelle-Aquitaine,39421,18,1,1188,Tiers,1000,Non,Oui,0,0.66,11038
+712,19,Nouvelle-Aquitaine,32845,17,2,4043,Tous risques,1000,Non,Non,1,0.05,11764
+713,78,Bretagne,46436,11,1,4797,Tiers,500,Non,Oui,4,0.21,10238
+714,68,Bretagne,8509,0,1,3519,Tous risques,1000,Non,Oui,1,0.49,12150
+715,67,Île-de-France,64068,18,1,4048,Tous risques,300,Non,Non,2,0.33,2271
+716,52,Provence-Alpes-Côte d'Azur,45293,19,0,0,Tous risques,300,Non,Non,3,0.31,12633
+717,40,Île-de-France,32917,16,2,12009,Tous risques,300,Non,Oui,1,0.4,6115
+718,34,Bretagne,28372,4,2,11414,Tiers,300,Non,Non,1,0.71,8167
+719,43,Auvergne-Rhône-Alpes,24602,2,1,2112,Tiers,1000,Oui,Non,1,0.27,6789
+720,25,Bretagne,42747,1,2,9611,Tiers,500,Non,Non,1,0.13,7397
+721,46,Provence-Alpes-Côte d'Azur,46939,2,0,0,Tous risques,800,Oui,Non,2,0.09,4638
+722,43,Bretagne,33049,7,2,9690,Tous risques,800,Non,Oui,2,0.29,2964
+723,27,Provence-Alpes-Côte d'Azur,48283,15,2,5724,Tous risques,800,Non,Oui,0,0.1,2020
+724,43,Provence-Alpes-Côte d'Azur,24112,5,2,9873,Tiers,800,Non,Non,3,0.09,7045
+725,79,Provence-Alpes-Côte d'Azur,21994,12,0,0,Tous risques,300,Non,Oui,4,0.16,2316
+726,51,Provence-Alpes-Côte d'Azur,56760,15,2,5819,Tiers,1000,Non,Oui,2,0.15,4052
+727,68,Provence-Alpes-Côte d'Azur,42093,15,1,2440,Tous risques,1000,Non,Non,1,0.2,2437
+728,58,Auvergne-Rhône-Alpes,51762,2,1,4341,Tous risques,800,Non,Non,0,0.11,2082
+729,24,Île-de-France,24752,12,1,1649,Tous risques,800,Non,Non,1,0.45,13295
+730,21,Nouvelle-Aquitaine,23917,13,2,13199,Tous risques,500,Non,Oui,5,0.37,10273
+731,75,Île-de-France,30696,7,0,0,Tous risques,500,Non,Non,1,0.3,13894
+732,70,Provence-Alpes-Côte d'Azur,25111,11,0,0,Tous risques,500,Non,Non,2,0.5,9838
+733,67,Auvergne-Rhône-Alpes,43464,7,2,7958,Tous risques,300,Non,Oui,2,0.31,12737
+734,62,Bretagne,25986,8,1,2661,Tous risques,1000,Non,Non,1,0.65,8551
+735,28,Auvergne-Rhône-Alpes,20939,0,1,4209,Tiers,300,Non,Oui,3,0.31,7208
+736,46,Provence-Alpes-Côte d'Azur,36704,5,0,0,Tiers,300,Non,Non,3,0.26,8162
+737,73,Auvergne-Rhône-Alpes,19520,18,0,0,Tous risques,1000,Non,Non,3,0.05,5143
+738,53,Auvergne-Rhône-Alpes,13406,10,2,5190,Tous risques,500,Non,Non,2,0.44,10040
+739,42,Provence-Alpes-Côte d'Azur,36599,10,0,0,Tiers,1000,Non,Oui,5,0.17,13509
+740,38,Auvergne-Rhône-Alpes,14009,12,0,0,Tous risques,800,Non,Oui,2,0.38,11844
+741,78,Nouvelle-Aquitaine,44303,10,0,0,Tiers,500,Non,Non,1,0.14,7199
+742,74,Nouvelle-Aquitaine,18255,17,1,4730,Tiers,1000,Non,Non,0,0.13,14331
+743,53,Auvergne-Rhône-Alpes,8111,14,1,4608,Tous risques,300,Non,Oui,1,0.22,14788
+744,27,Bretagne,31474,0,0,0,Tous risques,1000,Non,Oui,2,0.2,7649
+745,54,Provence-Alpes-Côte d'Azur,36735,6,0,0,Tous risques,500,Oui,Non,1,0.14,13037
+746,26,Nouvelle-Aquitaine,40897,12,0,0,Tous risques,800,Oui,Non,3,0.12,569
+747,41,Bretagne,37064,11,1,1051,Tous risques,300,Non,Oui,0,0.45,1466
+748,52,Auvergne-Rhône-Alpes,22288,17,1,1286,Tous risques,800,Non,Non,1,0.19,824
+749,66,Bretagne,43556,18,3,6446,Tiers,800,Non,Non,1,0.65,11710
+750,52,Île-de-France,46521,14,2,4007,Tiers,300,Non,Non,1,0.42,1656
+751,65,Nouvelle-Aquitaine,20530,7,2,4174,Tiers,1000,Non,Non,2,0.16,747
+752,53,Auvergne-Rhône-Alpes,32827,18,0,0,Tous risques,1000,Oui,Non,2,0.24,2637
+753,35,Provence-Alpes-Côte d'Azur,31706,9,0,0,Tiers,800,Non,Oui,1,0.41,4941
+754,66,Auvergne-Rhône-Alpes,37644,6,1,6950,Tiers,1000,Non,Oui,1,0.08,7238
+755,56,Provence-Alpes-Côte d'Azur,32540,17,2,4722,Tiers,500,Non,Non,1,0.19,1448
+756,49,Auvergne-Rhône-Alpes,34185,15,2,5729,Tous risques,800,Oui,Non,1,0.22,7735
+757,41,Bretagne,42701,19,4,27621,Tiers,800,Non,Non,1,0.15,4096
+758,40,Bretagne,21633,5,2,11981,Tous risques,800,Non,Non,4,0.06,4478
+759,79,Bretagne,43848,8,2,7637,Tiers,500,Non,Non,0,0.55,12417
+760,49,Île-de-France,48693,12,2,8655,Tiers,800,Non,Oui,1,0.29,14810
+761,54,Provence-Alpes-Côte d'Azur,54609,7,1,6059,Tiers,1000,Non,Non,2,0.15,7226
+762,29,Bretagne,9279,15,0,0,Tous risques,1000,Non,Non,2,0.18,5165
+763,66,Île-de-France,32805,12,2,4472,Tous risques,1000,Oui,Oui,1,0.53,14005
+764,72,Provence-Alpes-Côte d'Azur,11418,12,2,11941,Tiers,1000,Non,Non,3,0.27,7756
+765,30,Auvergne-Rhône-Alpes,5779,16,2,8453,Tiers,800,Non,Non,1,0.3,11090
+766,40,Île-de-France,36729,19,2,3836,Tous risques,500,Non,Non,3,0.31,6499
+767,42,Nouvelle-Aquitaine,30210,4,0,0,Tiers,300,Oui,Oui,1,0.2,3436
+768,52,Île-de-France,38598,16,2,6958,Tiers,1000,Non,Oui,0,0.28,9995
+769,58,Île-de-France,40833,8,2,12522,Tiers,300,Oui,Non,2,0.11,10140
+770,47,Provence-Alpes-Côte d'Azur,49974,1,0,0,Tiers,300,Oui,Non,4,0.12,7172
+771,34,Auvergne-Rhône-Alpes,35647,17,1,6251,Tiers,800,Non,Oui,5,0.37,4414
+772,66,Nouvelle-Aquitaine,70080,8,0,0,Tiers,1000,Non,Non,2,0.6,12561
+773,79,Bretagne,38676,5,1,3426,Tiers,1000,Oui,Non,2,0.19,4492
+774,37,Bretagne,57109,10,1,1971,Tous risques,1000,Oui,Non,0,0.25,10055
+775,65,Île-de-France,7005,5,2,10409,Tiers,300,Non,Non,0,0.19,6067
+776,42,Provence-Alpes-Côte d'Azur,51196,5,2,13121,Tous risques,1000,Non,Non,3,0.19,7350
+777,39,Provence-Alpes-Côte d'Azur,32830,12,1,3252,Tiers,1000,Non,Oui,3,0.53,3565
+778,30,Bretagne,11619,10,0,0,Tous risques,500,Non,Non,2,0.47,9917
+779,76,Nouvelle-Aquitaine,40046,13,1,4329,Tiers,800,Non,Non,1,0.37,3774
+780,36,Auvergne-Rhône-Alpes,31364,1,0,0,Tous risques,1000,Oui,Oui,3,0.16,7542
+781,66,Nouvelle-Aquitaine,41960,7,1,1022,Tiers,1000,Oui,Non,2,0.38,5262
+782,53,Auvergne-Rhône-Alpes,47132,2,0,0,Tous risques,800,Non,Non,3,0.26,14472
+783,29,Bretagne,17130,2,0,0,Tiers,800,Oui,Non,1,0.14,14742
+784,78,Auvergne-Rhône-Alpes,47179,0,2,5817,Tiers,300,Non,Non,3,0.29,11425
+785,58,Provence-Alpes-Côte d'Azur,35077,18,4,14834,Tous risques,300,Non,Non,4,0.37,14766
+786,36,Île-de-France,51234,17,1,2481,Tous risques,300,Non,Non,2,0.44,2146
+787,29,Île-de-France,32538,16,0,0,Tiers,800,Non,Oui,1,0.4,14888
+788,26,Bretagne,29355,19,0,0,Tous risques,500,Non,Non,1,0.47,2001
+789,24,Provence-Alpes-Côte d'Azur,35324,12,2,8392,Tiers,1000,Oui,Non,0,0.16,6524
+790,45,Nouvelle-Aquitaine,36222,2,0,0,Tiers,800,Non,Oui,3,0.23,3964
+791,31,Provence-Alpes-Côte d'Azur,27046,0,2,5496,Tous risques,500,Oui,Non,5,0.58,14330
+792,48,Île-de-France,29044,3,5,29682,Tiers,800,Non,Non,3,0.03,9718
+793,69,Île-de-France,20277,12,0,0,Tous risques,500,Non,Non,0,0.25,9158
+794,36,Provence-Alpes-Côte d'Azur,29784,16,1,4008,Tiers,800,Oui,Oui,0,0.27,14962
+795,75,Provence-Alpes-Côte d'Azur,43115,10,1,4124,Tous risques,800,Non,Non,3,0.42,9380
+796,64,Île-de-France,33351,1,2,7380,Tous risques,500,Oui,Oui,2,0.32,9869
+797,33,Nouvelle-Aquitaine,47108,15,2,5073,Tous risques,500,Non,Non,0,0.08,1149
+798,70,Bretagne,32774,1,0,0,Tous risques,500,Non,Non,1,0.46,12956
+799,22,Bretagne,17821,18,1,1591,Tiers,500,Oui,Non,1,0.66,14566
+800,52,Provence-Alpes-Côte d'Azur,42167,18,2,11089,Tous risques,500,Oui,Non,3,0.25,14424
+801,29,Bretagne,26916,15,2,4682,Tiers,500,Non,Oui,5,0.38,3706
+802,42,Île-de-France,32199,18,1,1334,Tous risques,500,Non,Non,3,0.35,3775
+803,69,Île-de-France,49850,8,1,5785,Tous risques,500,Oui,Non,3,0.2,5807
+804,76,Provence-Alpes-Côte d'Azur,21069,0,2,3848,Tous risques,800,Non,Non,1,0.11,4998
+805,38,Provence-Alpes-Côte d'Azur,36976,9,2,9501,Tous risques,500,Non,Non,1,0.13,4931
+806,53,Provence-Alpes-Côte d'Azur,34513,18,3,9095,Tiers,500,Oui,Oui,2,0.15,9275
+807,70,Nouvelle-Aquitaine,43411,0,1,1758,Tous risques,800,Non,Oui,1,0.15,12181
+808,40,Bretagne,45261,1,2,6973,Tiers,800,Non,Oui,2,0.43,14083
+809,33,Provence-Alpes-Côte d'Azur,38166,15,0,0,Tous risques,300,Non,Non,2,0.01,1483
+810,74,Auvergne-Rhône-Alpes,30675,11,1,6046,Tiers,300,Non,Oui,1,0.46,4530
+811,56,Auvergne-Rhône-Alpes,40680,7,1,4080,Tous risques,500,Oui,Oui,5,0.34,4197
+812,62,Île-de-France,51027,17,0,0,Tiers,500,Non,Non,1,0.33,5682
+813,70,Bretagne,34672,1,2,4843,Tous risques,300,Non,Non,1,0.08,6652
+814,59,Provence-Alpes-Côte d'Azur,31792,12,1,3687,Tiers,300,Oui,Non,4,0.12,6142
+815,75,Auvergne-Rhône-Alpes,39658,5,1,2133,Tous risques,1000,Oui,Non,1,0.28,14306
+816,56,Bretagne,35464,5,2,5223,Tiers,1000,Non,Non,0,0.25,6838
+817,31,Île-de-France,18947,8,0,0,Tous risques,500,Non,Non,1,0.14,8498
+818,48,Nouvelle-Aquitaine,37871,15,0,0,Tiers,1000,Non,Non,3,0.16,11355
+819,75,Bretagne,18838,10,2,6822,Tous risques,300,Non,Non,5,0.16,11013
+820,22,Bretagne,39493,6,1,5301,Tiers,500,Non,Oui,5,0.11,8952
+821,52,Nouvelle-Aquitaine,25434,9,2,12520,Tous risques,800,Non,Oui,2,0.3,12982
+822,40,Bretagne,35442,9,1,2297,Tiers,800,Oui,Oui,4,0.08,9550
+823,46,Île-de-France,39687,19,3,17529,Tous risques,300,Non,Non,1,0.35,13184
+824,60,Île-de-France,64446,17,0,0,Tiers,1000,Non,Non,3,0.42,4890
+825,28,Nouvelle-Aquitaine,43912,19,2,6283,Tiers,800,Non,Non,3,0.46,2414
+826,35,Provence-Alpes-Côte d'Azur,51377,8,3,20811,Tous risques,1000,Non,Oui,2,0.31,12383
+827,64,Auvergne-Rhône-Alpes,57460,14,1,2575,Tiers,800,Non,Non,2,0.13,6046
+828,29,Provence-Alpes-Côte d'Azur,40871,3,0,0,Tiers,1000,Non,Non,1,0.43,9940
+829,26,Bretagne,38428,7,2,11267,Tous risques,800,Non,Non,4,0.67,11191
+830,27,Auvergne-Rhône-Alpes,22199,8,0,0,Tous risques,800,Non,Oui,3,0.06,5237
+831,75,Nouvelle-Aquitaine,33600,12,0,0,Tous risques,500,Non,Oui,1,0.68,7824
+832,61,Nouvelle-Aquitaine,26322,8,2,4143,Tiers,500,Oui,Non,2,0.14,13476
+833,34,Auvergne-Rhône-Alpes,30187,3,2,11183,Tiers,300,Non,Non,1,0.13,13257
+834,78,Île-de-France,57447,16,0,0,Tous risques,800,Non,Oui,1,0.32,11365
+835,55,Auvergne-Rhône-Alpes,36375,15,2,8798,Tiers,1000,Non,Oui,0,0.27,11559
+836,24,Bretagne,24489,14,3,20231,Tous risques,800,Non,Non,2,0.02,13516
+837,63,Île-de-France,51494,2,1,2908,Tiers,1000,Non,Non,1,0.04,11176
+838,30,Nouvelle-Aquitaine,46463,19,3,6953,Tous risques,1000,Non,Oui,1,0.16,5423
+839,57,Auvergne-Rhône-Alpes,47091,4,0,0,Tous risques,800,Non,Non,0,0.25,2251
+840,59,Provence-Alpes-Côte d'Azur,10926,4,0,0,Tous risques,1000,Non,Non,1,0.47,6617
+841,26,Provence-Alpes-Côte d'Azur,58384,19,1,2349,Tiers,300,Non,Non,0,0.13,1766
+842,67,Bretagne,28297,14,1,1459,Tous risques,500,Non,Non,3,0.46,2178
+843,44,Provence-Alpes-Côte d'Azur,44335,17,1,5863,Tiers,1000,Non,Non,2,0.47,14277
+844,75,Auvergne-Rhône-Alpes,65285,14,2,13718,Tous risques,800,Non,Non,0,0.21,10300
+845,19,Auvergne-Rhône-Alpes,60863,1,0,0,Tous risques,500,Non,Non,1,0.31,12848
+846,22,Provence-Alpes-Côte d'Azur,23269,12,0,0,Tiers,300,Non,Non,2,0.28,9822
+847,46,Auvergne-Rhône-Alpes,17665,3,1,6980,Tous risques,1000,Oui,Non,2,0.28,6568
+848,54,Bretagne,52164,9,3,19078,Tous risques,1000,Non,Non,2,0.2,864
+849,55,Île-de-France,36704,12,1,4080,Tiers,500,Non,Non,5,0.11,14359
+850,36,Bretagne,28989,9,2,11903,Tous risques,1000,Non,Oui,3,0.36,1528
+851,25,Bretagne,42454,8,1,5894,Tiers,800,Non,Non,3,0.46,9347
+852,65,Auvergne-Rhône-Alpes,33045,7,1,6608,Tiers,500,Non,Non,5,0.3,1981
+853,62,Île-de-France,43415,2,2,12091,Tous risques,500,Non,Non,1,0.35,4620
+854,18,Auvergne-Rhône-Alpes,35803,15,2,9724,Tous risques,1000,Non,Non,0,0.44,3194
+855,39,Nouvelle-Aquitaine,43668,13,3,13967,Tiers,300,Non,Oui,0,0.18,8528
+856,69,Auvergne-Rhône-Alpes,24265,8,0,0,Tous risques,300,Non,Non,6,0.45,13362
+857,34,Auvergne-Rhône-Alpes,52093,10,3,14276,Tous risques,300,Non,Non,1,0.06,9716
+858,24,Auvergne-Rhône-Alpes,43371,2,0,0,Tous risques,300,Non,Non,1,0.36,10130
+859,42,Île-de-France,42755,4,1,6814,Tous risques,500,Non,Non,2,0.34,13679
+860,62,Auvergne-Rhône-Alpes,21587,9,0,0,Tiers,500,Non,Oui,2,0.13,11366
+861,21,Île-de-France,55395,12,2,8883,Tous risques,1000,Non,Non,2,0.58,13056
+862,53,Provence-Alpes-Côte d'Azur,34835,3,1,3668,Tous risques,300,Non,Non,3,0.17,6537
+863,23,Nouvelle-Aquitaine,43736,12,2,10021,Tiers,300,Non,Non,3,0.48,13047
+864,77,Île-de-France,31126,11,1,4779,Tous risques,1000,Oui,Non,1,0.29,9864
+865,48,Provence-Alpes-Côte d'Azur,38130,4,2,2214,Tiers,1000,Non,Non,1,0.08,2466
+866,36,Île-de-France,38565,9,1,4246,Tiers,1000,Oui,Non,3,0.46,1061
+867,78,Île-de-France,1160,8,2,3061,Tous risques,800,Non,Oui,1,0.23,4038
+868,61,Nouvelle-Aquitaine,41989,19,2,2316,Tous risques,1000,Oui,Non,1,0.17,5986
+869,71,Bretagne,58584,6,1,5747,Tous risques,1000,Non,Non,2,0.45,12644
+870,56,Bretagne,41477,1,1,2551,Tous risques,800,Non,Non,4,0.19,11248
+871,44,Île-de-France,23507,6,1,3043,Tous risques,300,Non,Non,2,0.24,14352
+872,27,Auvergne-Rhône-Alpes,42799,7,1,1384,Tous risques,500,Oui,Non,0,0.28,8608
+873,43,Provence-Alpes-Côte d'Azur,47713,6,1,2077,Tous risques,300,Non,Non,4,0.27,11342
+874,36,Auvergne-Rhône-Alpes,41149,13,0,0,Tiers,500,Non,Non,4,0.42,4491
+875,56,Auvergne-Rhône-Alpes,34110,18,0,0,Tiers,500,Non,Non,2,0.1,10353
+876,79,Île-de-France,32094,4,2,12568,Tiers,1000,Non,Oui,1,0.26,10739
+877,20,Île-de-France,32044,17,0,0,Tous risques,1000,Non,Non,6,0.13,12802
+878,62,Île-de-France,43373,19,1,2612,Tous risques,800,Non,Non,3,0.17,8277
+879,30,Île-de-France,18114,11,1,3085,Tiers,300,Oui,Non,0,0.41,9910
+880,67,Bretagne,30537,16,1,5276,Tiers,300,Oui,Non,2,0.36,3444
+881,45,Île-de-France,54147,12,2,8660,Tiers,500,Non,Non,2,0.11,11183
+882,79,Bretagne,54610,1,0,0,Tiers,1000,Non,Non,2,0.11,12656
+883,75,Bretagne,17262,12,2,9226,Tous risques,1000,Non,Oui,3,0.43,9109
+884,37,Île-de-France,21423,6,0,0,Tous risques,300,Non,Non,3,0.29,2177
+885,45,Nouvelle-Aquitaine,31752,9,1,5714,Tiers,800,Oui,Non,1,0.57,5036
+886,25,Provence-Alpes-Côte d'Azur,45711,5,1,6685,Tous risques,1000,Non,Oui,3,0.38,7394
+887,78,Auvergne-Rhône-Alpes,13070,2,3,9405,Tous risques,800,Non,Non,1,0.37,10318
+888,58,Bretagne,34342,2,1,2499,Tous risques,300,Non,Non,3,0.19,5144
+889,56,Provence-Alpes-Côte d'Azur,29309,17,1,4697,Tiers,300,Non,Non,1,0.29,12684
+890,18,Nouvelle-Aquitaine,50911,10,0,0,Tous risques,800,Non,Non,0,0.28,5890
+891,20,Auvergne-Rhône-Alpes,14877,19,1,6935,Tiers,1000,Non,Non,3,0.3,1121
+892,30,Auvergne-Rhône-Alpes,36110,4,3,11322,Tous risques,300,Oui,Non,1,0.25,12012
+893,45,Bretagne,30276,18,2,2891,Tous risques,500,Non,Non,5,0.27,9841
+894,79,Île-de-France,52637,18,1,6864,Tous risques,300,Non,Oui,0,0.17,12128
+895,74,Nouvelle-Aquitaine,42171,14,2,12123,Tiers,1000,Non,Oui,3,0.21,5558
+896,77,Bretagne,27970,15,1,2069,Tiers,500,Non,Oui,3,0.15,755
+897,66,Nouvelle-Aquitaine,45240,8,1,6427,Tiers,300,Non,Oui,2,0.25,1569
+898,42,Île-de-France,30334,3,0,0,Tous risques,1000,Non,Oui,2,0.37,2121
+899,73,Île-de-France,46991,14,1,3262,Tiers,1000,Oui,Oui,2,0.58,12174
+900,50,Bretagne,32155,11,1,6438,Tiers,300,Non,Oui,2,0.08,4870
+901,55,Île-de-France,47655,2,1,4180,Tous risques,1000,Non,Non,1,0.15,14969
+902,70,Provence-Alpes-Côte d'Azur,40232,13,2,3653,Tous risques,800,Non,Non,1,0.2,11496
+903,23,Auvergne-Rhône-Alpes,74125,16,0,0,Tous risques,500,Non,Non,4,0.52,9216
+904,75,Bretagne,34365,18,1,5332,Tiers,800,Non,Oui,0,0.21,14762
+905,61,Nouvelle-Aquitaine,39594,5,1,2045,Tous risques,300,Oui,Non,4,0.13,5086
+906,62,Provence-Alpes-Côte d'Azur,29246,3,3,13624,Tiers,800,Non,Non,3,0.39,2901
+907,49,Bretagne,35032,6,0,0,Tous risques,300,Non,Oui,1,0.38,11190
+908,62,Île-de-France,2577,18,1,3063,Tiers,300,Non,Non,1,0.47,4532
+909,78,Île-de-France,40587,16,0,0,Tous risques,1000,Non,Non,4,0.58,14435
+910,64,Île-de-France,51114,15,0,0,Tous risques,1000,Non,Non,4,0.07,14827
+911,38,Île-de-France,39759,14,2,7665,Tous risques,300,Non,Non,2,0.31,13932
+912,33,Nouvelle-Aquitaine,19233,7,0,0,Tous risques,500,Non,Non,0,0.42,14199
+913,71,Provence-Alpes-Côte d'Azur,25378,18,3,7520,Tiers,500,Oui,Non,0,0.32,9426
+914,38,Auvergne-Rhône-Alpes,5837,7,0,0,Tiers,500,Non,Oui,0,0.15,10535
+915,28,Nouvelle-Aquitaine,46747,17,1,6279,Tous risques,800,Non,Oui,1,0.12,1866
+916,77,Nouvelle-Aquitaine,22921,15,2,5895,Tous risques,300,Non,Non,0,0.24,11564
+917,54,Auvergne-Rhône-Alpes,34655,19,4,13509,Tous risques,1000,Oui,Oui,1,0.44,3429
+918,53,Auvergne-Rhône-Alpes,33155,18,1,3439,Tous risques,800,Non,Oui,3,0.5,12684
+919,52,Île-de-France,52852,9,3,13094,Tous risques,800,Non,Non,1,0.45,14442
+920,36,Nouvelle-Aquitaine,36023,16,0,0,Tous risques,1000,Non,Non,3,0.05,3579
+921,37,Bretagne,44706,12,0,0,Tiers,300,Non,Oui,2,0.23,1631
+922,74,Auvergne-Rhône-Alpes,41557,12,1,2773,Tous risques,800,Non,Oui,4,0.37,7516
+923,35,Auvergne-Rhône-Alpes,51312,6,1,5232,Tiers,300,Non,Non,5,0.29,11977
+924,64,Provence-Alpes-Côte d'Azur,32130,9,1,4079,Tiers,300,Non,Non,1,0.4,11674
+925,58,Bretagne,57435,1,1,4515,Tous risques,300,Oui,Oui,2,0.19,10603
+926,66,Bretagne,11172,3,2,4155,Tous risques,1000,Non,Non,0,0.12,12400
+927,31,Auvergne-Rhône-Alpes,45289,5,1,5410,Tous risques,300,Non,Non,2,0.53,3037
+928,32,Île-de-France,24600,17,1,2131,Tous risques,800,Oui,Non,0,0.13,9953
+929,48,Provence-Alpes-Côte d'Azur,29087,5,1,1680,Tous risques,1000,Oui,Oui,2,0.18,9282
+930,18,Bretagne,41832,16,3,12840,Tiers,1000,Non,Non,2,0.25,2724
+931,70,Auvergne-Rhône-Alpes,41736,13,1,5255,Tous risques,800,Oui,Non,0,0.09,6509
+932,71,Bretagne,42277,10,1,1300,Tous risques,1000,Non,Oui,3,0.34,12861
+933,71,Provence-Alpes-Côte d'Azur,18366,18,4,5665,Tous risques,800,Non,Non,2,0.1,14591
+934,20,Provence-Alpes-Côte d'Azur,52388,1,1,5816,Tiers,500,Non,Oui,1,0.83,10148
+935,33,Nouvelle-Aquitaine,24192,2,3,17562,Tiers,800,Oui,Non,3,0.16,13868
+936,40,Auvergne-Rhône-Alpes,25792,10,0,0,Tous risques,1000,Non,Oui,0,0.33,2414
+937,74,Provence-Alpes-Côte d'Azur,42654,5,1,4691,Tous risques,800,Non,Non,4,0.3,14638
+938,28,Nouvelle-Aquitaine,31559,13,0,0,Tous risques,500,Non,Non,1,0.45,985
+939,29,Nouvelle-Aquitaine,38699,18,0,0,Tous risques,300,Oui,Non,0,0.2,8145
+940,27,Bretagne,9120,15,2,12354,Tous risques,300,Non,Non,5,0.31,4719
+941,49,Bretagne,38411,6,1,1479,Tous risques,300,Non,Oui,5,0.11,12301
+942,33,Nouvelle-Aquitaine,37613,7,0,0,Tous risques,1000,Non,Non,2,0.07,3654
+943,25,Bretagne,28881,18,1,3958,Tous risques,500,Non,Non,1,0.39,667
+944,55,Provence-Alpes-Côte d'Azur,10111,19,2,8769,Tiers,800,Oui,Oui,1,0.37,6511
+945,29,Île-de-France,32446,15,2,9847,Tous risques,800,Non,Non,0,0.49,1429
+946,41,Provence-Alpes-Côte d'Azur,34551,6,1,6535,Tous risques,800,Non,Oui,2,0.45,4706
+947,45,Nouvelle-Aquitaine,30593,8,2,2680,Tous risques,800,Non,Non,2,0.06,9834
+948,70,Nouvelle-Aquitaine,12965,12,1,1176,Tiers,1000,Non,Non,1,0.18,4773
+949,25,Provence-Alpes-Côte d'Azur,54136,0,0,0,Tous risques,1000,Non,Oui,1,0.19,4064
+950,75,Bretagne,27333,7,2,13837,Tous risques,500,Non,Non,2,0.45,2754
+951,45,Bretagne,32333,3,1,5290,Tous risques,800,Oui,Non,2,0.27,2459
+952,53,Nouvelle-Aquitaine,6086,2,1,4687,Tiers,300,Non,Non,0,0.36,8124
+953,43,Auvergne-Rhône-Alpes,54138,2,1,1282,Tous risques,1000,Non,Non,0,0.24,10381
+954,25,Bretagne,29401,12,1,6274,Tous risques,500,Non,Oui,1,0.6,7064
+955,75,Provence-Alpes-Côte d'Azur,36181,7,0,0,Tous risques,500,Non,Non,1,0.42,2292
+956,77,Bretagne,48448,6,0,0,Tiers,1000,Non,Non,1,0.16,9892
+957,67,Provence-Alpes-Côte d'Azur,26884,0,0,0,Tous risques,300,Non,Oui,1,0.21,8578
+958,45,Nouvelle-Aquitaine,46558,15,1,1423,Tiers,300,Non,Non,2,0.31,6028
+959,45,Bretagne,10264,5,4,17920,Tiers,800,Non,Oui,4,0.49,5285
+960,54,Provence-Alpes-Côte d'Azur,41611,6,0,0,Tous risques,1000,Non,Oui,1,0.28,3155
+961,58,Nouvelle-Aquitaine,53866,11,1,1565,Tous risques,300,Non,Non,2,0.2,2621
+962,53,Auvergne-Rhône-Alpes,28034,8,3,14407,Tous risques,1000,Non,Non,4,0.21,5412
+963,44,Provence-Alpes-Côte d'Azur,48426,10,1,2718,Tous risques,500,Non,Non,1,0.33,1103
+964,71,Auvergne-Rhône-Alpes,57007,9,1,5585,Tiers,500,Non,Non,3,0.69,6831
+965,34,Auvergne-Rhône-Alpes,31941,0,3,12713,Tous risques,500,Oui,Non,0,0.32,9222
+966,26,Île-de-France,30949,17,1,1774,Tiers,1000,Non,Non,1,0.41,14153
+967,50,Bretagne,24220,3,2,8318,Tous risques,800,Non,Non,3,0.21,9574
+968,70,Provence-Alpes-Côte d'Azur,28883,4,0,0,Tous risques,800,Non,Oui,0,0.08,9549
+969,37,Auvergne-Rhône-Alpes,25215,8,0,0,Tous risques,300,Non,Non,1,0.4,5929
+970,30,Île-de-France,24210,16,0,0,Tous risques,1000,Non,Oui,6,0.36,2433
+971,45,Nouvelle-Aquitaine,49386,2,2,2132,Tous risques,800,Non,Non,2,0.27,6980
+972,65,Provence-Alpes-Côte d'Azur,25520,15,2,5745,Tous risques,1000,Oui,Non,1,0.72,9180
+973,46,Auvergne-Rhône-Alpes,38102,4,2,2151,Tiers,800,Oui,Non,3,0.07,10998
+974,30,Bretagne,35458,15,1,1576,Tiers,500,Non,Oui,2,0.25,12478
+975,63,Île-de-France,52977,2,0,0,Tous risques,500,Non,Oui,3,0.22,4210
+976,52,Auvergne-Rhône-Alpes,28962,19,1,1325,Tous risques,300,Non,Non,4,0.26,3997
+977,78,Bretagne,39573,14,2,9159,Tiers,500,Non,Non,1,0.17,8696
+978,23,Auvergne-Rhône-Alpes,44492,2,1,1521,Tiers,800,Non,Non,2,0.21,8707
+979,35,Provence-Alpes-Côte d'Azur,52876,19,3,15630,Tous risques,300,Non,Non,1,0.45,3660
+980,68,Provence-Alpes-Côte d'Azur,28786,13,3,3947,Tous risques,300,Non,Non,1,0.12,9018
+981,22,Provence-Alpes-Côte d'Azur,27585,15,1,1355,Tiers,500,Non,Oui,1,0.31,5515
+982,64,Île-de-France,22258,16,0,0,Tiers,1000,Non,Non,3,0.57,9770
+983,42,Provence-Alpes-Côte d'Azur,61835,19,1,6379,Tous risques,500,Non,Non,5,0.23,4720
+984,19,Bretagne,51613,17,3,14545,Tous risques,500,Non,Oui,2,0.07,9088
+985,27,Auvergne-Rhône-Alpes,34493,17,0,0,Tiers,300,Non,Oui,3,0.22,11640
+986,73,Nouvelle-Aquitaine,58177,13,4,7397,Tiers,500,Oui,Non,1,0.21,14712
+987,47,Bretagne,33777,17,2,12009,Tous risques,800,Non,Non,2,0.48,13710
+988,67,Bretagne,43692,14,1,1048,Tous risques,300,Non,Oui,2,0.13,7801
+989,76,Provence-Alpes-Côte d'Azur,35122,14,0,0,Tous risques,500,Non,Non,4,0.04,7581
+990,62,Île-de-France,39773,5,1,4696,Tous risques,1000,Non,Oui,5,0.16,6846
+991,22,Auvergne-Rhône-Alpes,38501,14,1,3251,Tiers,800,Non,Non,2,0.31,902
+992,72,Île-de-France,29900,17,0,0,Tous risques,1000,Non,Oui,4,0.13,2906
+993,73,Auvergne-Rhône-Alpes,48109,3,0,0,Tous risques,800,Non,Non,2,0.31,1358
+994,50,Auvergne-Rhône-Alpes,43591,7,0,0,Tiers,1000,Non,Oui,0,0.31,10597
+995,71,Île-de-France,47332,14,0,0,Tous risques,500,Non,Non,1,0.24,6491
+996,18,Bretagne,38842,2,1,4352,Tous risques,800,Non,Non,4,0.24,1424
+997,35,Auvergne-Rhône-Alpes,24121,14,3,4071,Tiers,300,Non,Oui,2,0.37,10513
+998,49,Île-de-France,55512,12,0,0,Tiers,300,Oui,Non,2,0.4,9844
+999,64,Auvergne-Rhône-Alpes,31849,8,5,32739,Tiers,1000,Non,Oui,3,0.36,10939
+1000,66,Nouvelle-Aquitaine,39368,1,1,3125,Tiers,1000,Non,Non,5,0.31,9197
+1001,28,Bretagne,42624,7,2,9939,Tous risques,1000,Non,Non,1,0.21,2842
+1002,38,Provence-Alpes-Côte d'Azur,39289,19,3,20990,Tous risques,800,Non,Non,0,0.16,1390
+1003,43,Auvergne-Rhône-Alpes,45985,16,2,5156,Tous risques,300,Non,Non,0,0.12,12348
+1004,42,Nouvelle-Aquitaine,47880,12,1,4456,Tiers,500,Oui,Non,2,0.34,3629
+1005,39,Provence-Alpes-Côte d'Azur,32301,0,1,5178,Tous risques,800,Non,Oui,1,0.18,8366
+1006,76,Provence-Alpes-Côte d'Azur,54505,1,0,0,Tous risques,1000,Non,Non,4,0.14,7535
+1007,44,Auvergne-Rhône-Alpes,31797,14,0,0,Tous risques,300,Non,Non,1,0.49,13855
+1008,66,Île-de-France,39040,11,2,7475,Tiers,1000,Non,Non,0,0.31,8510
+1009,30,Auvergne-Rhône-Alpes,30347,13,0,0,Tiers,500,Non,Oui,2,0.13,8910
+1010,50,Nouvelle-Aquitaine,26918,1,2,10570,Tiers,500,Non,Non,2,0.33,5132
+1011,51,Provence-Alpes-Côte d'Azur,47530,17,0,0,Tous risques,300,Non,Non,0,0.36,14401
+1012,58,Auvergne-Rhône-Alpes,72462,6,3,20498,Tous risques,800,Non,Non,5,0.51,9379
+1013,52,Île-de-France,30658,5,1,1085,Tous risques,500,Oui,Non,5,0.09,572
+1014,18,Auvergne-Rhône-Alpes,49583,13,0,0,Tous risques,500,Non,Oui,1,0.35,8563
+1015,38,Bretagne,31089,7,1,4375,Tiers,500,Non,Oui,3,0.47,5776
+1016,65,Île-de-France,34874,1,0,0,Tous risques,500,Oui,Oui,3,0.15,965
+1017,72,Nouvelle-Aquitaine,56091,16,3,5716,Tous risques,1000,Non,Non,2,0.05,6757
+1018,23,Provence-Alpes-Côte d'Azur,22117,4,0,0,Tiers,1000,Non,Oui,3,0.24,11716
+1019,45,Auvergne-Rhône-Alpes,18942,13,2,12650,Tiers,800,Non,Non,1,0.05,7804
+1020,34,Île-de-France,33953,19,0,0,Tous risques,300,Oui,Non,1,0.28,9772
+1021,22,Bretagne,42963,2,0,0,Tiers,300,Non,Non,1,0.24,9776
+1022,48,Île-de-France,40563,4,3,9389,Tiers,300,Non,Non,4,0.05,10229
+1023,22,Bretagne,39328,15,1,1435,Tous risques,500,Non,Non,1,0.18,6120
+1024,55,Nouvelle-Aquitaine,35409,17,2,10078,Tous risques,1000,Non,Non,0,0.48,5865
+1025,20,Provence-Alpes-Côte d'Azur,44438,16,1,5951,Tiers,1000,Non,Oui,0,0.3,566
+1026,70,Nouvelle-Aquitaine,35,10,0,0,Tous risques,800,Non,Non,2,0.34,2736
+1027,40,Auvergne-Rhône-Alpes,25990,16,3,20823,Tous risques,300,Non,Non,2,0.35,14286
+1028,54,Île-de-France,33876,15,1,1455,Tous risques,1000,Oui,Non,1,0.51,12715
+1029,70,Bretagne,43454,1,0,0,Tiers,800,Non,Non,1,0.4,4489
+1030,54,Bretagne,52877,3,1,3689,Tous risques,300,Non,Non,2,0.09,6317
+1031,27,Île-de-France,24378,6,1,3679,Tous risques,500,Non,Non,1,0.4,14128
+1032,27,Île-de-France,52484,1,2,7491,Tous risques,1000,Oui,Non,1,0.55,4131
+1033,36,Auvergne-Rhône-Alpes,29569,5,0,0,Tiers,1000,Non,Non,1,0.2,8221
+1034,34,Nouvelle-Aquitaine,33441,16,1,5293,Tiers,300,Non,Non,2,0.24,820
+1035,38,Bretagne,41977,6,0,0,Tous risques,500,Oui,Oui,1,0.27,9486
+1036,31,Auvergne-Rhône-Alpes,32561,4,1,2694,Tiers,500,Non,Non,2,0.4,13986
+1037,26,Nouvelle-Aquitaine,48321,4,2,12023,Tous risques,1000,Non,Non,1,0.28,13328
+1038,63,Auvergne-Rhône-Alpes,30144,19,2,5802,Tiers,300,Non,Non,2,0.28,7778
+1039,18,Bretagne,30325,15,1,5350,Tiers,800,Non,Non,2,0.35,9919
+1040,68,Île-de-France,47623,18,0,0,Tous risques,1000,Oui,Non,0,0.13,8762
+1041,62,Île-de-France,25842,8,0,0,Tiers,500,Non,Non,4,0.04,1471
+1042,30,Nouvelle-Aquitaine,37987,4,1,2894,Tous risques,800,Oui,Non,5,0.13,2801
+1043,21,Provence-Alpes-Côte d'Azur,15074,7,2,9126,Tiers,300,Non,Oui,1,0.38,14475
+1044,79,Nouvelle-Aquitaine,56835,8,3,14619,Tous risques,500,Non,Non,4,0.11,4211
+1045,18,Provence-Alpes-Côte d'Azur,49478,4,0,0,Tous risques,800,Non,Oui,3,0.2,6074
+1046,66,Auvergne-Rhône-Alpes,68001,9,1,1467,Tiers,1000,Non,Oui,3,0.12,7879
+1047,57,Auvergne-Rhône-Alpes,51060,1,1,3241,Tous risques,500,Non,Non,1,0.28,14697
+1048,49,Bretagne,21444,8,0,0,Tiers,300,Non,Non,1,0.41,10504
+1049,51,Provence-Alpes-Côte d'Azur,43023,10,0,0,Tous risques,500,Non,Oui,2,0.16,9629
+1050,45,Bretagne,23983,3,2,3922,Tous risques,1000,Oui,Non,1,0.12,8103
+1051,48,Île-de-France,53936,1,1,1046,Tiers,300,Non,Non,2,0.36,10659
+1052,25,Provence-Alpes-Côte d'Azur,21786,5,0,0,Tous risques,1000,Non,Oui,2,0.46,10128
+1053,56,Nouvelle-Aquitaine,21210,13,1,1638,Tous risques,800,Non,Non,2,0.27,13591
+1054,43,Île-de-France,15682,0,1,1494,Tous risques,500,Non,Non,1,0.31,8356
+1055,75,Île-de-France,29139,17,1,1016,Tiers,1000,Non,Non,1,0.04,6611
+1056,51,Nouvelle-Aquitaine,26726,6,1,3595,Tous risques,800,Non,Oui,3,0.1,12203
+1057,71,Île-de-France,19860,0,1,4019,Tiers,300,Non,Oui,0,0.55,12096
+1058,71,Provence-Alpes-Côte d'Azur,58877,0,0,0,Tous risques,300,Non,Non,1,0.55,2962
+1059,20,Bretagne,41358,0,0,0,Tiers,800,Non,Non,3,0.33,3933
+1060,76,Île-de-France,39946,3,1,5262,Tous risques,800,Oui,Non,1,0.16,14400
+1061,67,Provence-Alpes-Côte d'Azur,54069,3,1,2015,Tiers,300,Non,Non,4,0.2,6939
+1062,29,Auvergne-Rhône-Alpes,38075,17,2,11983,Tous risques,1000,Non,Oui,1,0.47,8035
+1063,18,Provence-Alpes-Côte d'Azur,26015,10,0,0,Tous risques,800,Non,Non,4,0.43,4997
+1064,71,Bretagne,14597,0,0,0,Tous risques,1000,Non,Non,2,0.25,7475
+1065,61,Provence-Alpes-Côte d'Azur,25339,9,1,2258,Tous risques,300,Non,Non,2,0.12,11278
+1066,22,Nouvelle-Aquitaine,53064,8,0,0,Tous risques,1000,Oui,Non,3,0.37,7494
+1067,47,Bretagne,19935,3,1,3788,Tous risques,1000,Non,Non,1,0.07,5064
+1068,47,Auvergne-Rhône-Alpes,39237,5,1,4693,Tous risques,800,Non,Non,1,0.7,1892
+1069,76,Nouvelle-Aquitaine,47407,15,1,1570,Tous risques,1000,Non,Non,3,0.32,13959
+1070,74,Provence-Alpes-Côte d'Azur,38424,1,2,13406,Tous risques,1000,Non,Non,2,0.38,13139
+1071,34,Bretagne,39787,17,0,0,Tous risques,1000,Non,Non,4,0.61,11974
+1072,65,Auvergne-Rhône-Alpes,42867,9,2,8545,Tiers,300,Non,Non,2,0.13,10564
+1073,64,Nouvelle-Aquitaine,39551,16,2,13400,Tous risques,300,Non,Oui,5,0.08,7974
+1074,40,Auvergne-Rhône-Alpes,54308,12,0,0,Tiers,500,Non,Oui,0,0.15,13512
+1075,32,Provence-Alpes-Côte d'Azur,22516,17,3,3457,Tous risques,300,Oui,Non,3,0.11,11979
+1076,54,Auvergne-Rhône-Alpes,37885,12,4,4945,Tous risques,300,Non,Non,1,0.38,12332
+1077,38,Île-de-France,13181,16,1,4525,Tous risques,500,Oui,Non,2,0.35,4988
+1078,31,Nouvelle-Aquitaine,10115,4,2,2739,Tiers,500,Oui,Oui,2,0.13,6640
+1079,19,Auvergne-Rhône-Alpes,34019,10,1,6751,Tiers,800,Non,Non,2,0.08,10748
+1080,28,Provence-Alpes-Côte d'Azur,41520,6,0,0,Tous risques,800,Oui,Oui,3,0.12,5880
+1081,68,Provence-Alpes-Côte d'Azur,54568,9,4,11313,Tiers,300,Oui,Non,0,0.28,7662
+1082,56,Auvergne-Rhône-Alpes,64037,16,1,5935,Tous risques,1000,Non,Non,2,0.24,9874
+1083,55,Provence-Alpes-Côte d'Azur,50838,14,5,11562,Tous risques,800,Non,Non,0,0.1,6847
+1084,77,Bretagne,43725,17,0,0,Tous risques,800,Non,Non,2,0.21,11999
+1085,51,Bretagne,36919,18,1,4853,Tiers,300,Oui,Non,2,0.18,2186
+1086,55,Bretagne,16625,1,0,0,Tous risques,1000,Non,Non,2,0.13,10911
+1087,67,Île-de-France,33247,3,3,6914,Tiers,500,Non,Non,0,0.2,2605
+1088,51,Auvergne-Rhône-Alpes,50484,2,1,2525,Tous risques,500,Non,Oui,1,0.18,14098
+1089,35,Île-de-France,45779,6,0,0,Tiers,300,Non,Non,2,0.34,5053
+1090,47,Provence-Alpes-Côte d'Azur,19563,17,0,0,Tous risques,300,Non,Non,2,0.37,12033
+1091,32,Île-de-France,42368,9,1,5993,Tiers,1000,Oui,Non,3,0.28,8060
+1092,44,Provence-Alpes-Côte d'Azur,41340,6,1,2707,Tous risques,300,Non,Non,1,0.33,1820
+1093,68,Provence-Alpes-Côte d'Azur,39198,7,7,22261,Tiers,300,Non,Non,0,0.12,8947
+1094,51,Nouvelle-Aquitaine,34665,5,0,0,Tous risques,300,Non,Non,1,0.13,13726
+1095,69,Bretagne,42987,0,0,0,Tous risques,1000,Non,Non,3,0.41,2779
+1096,74,Provence-Alpes-Côte d'Azur,43367,3,2,4068,Tiers,300,Oui,Non,1,0.21,5158
+1097,55,Nouvelle-Aquitaine,27302,13,2,6289,Tous risques,800,Non,Non,3,0.51,6867
+1098,50,Bretagne,40460,16,1,5376,Tous risques,1000,Oui,Non,1,0.45,4488
+1099,41,Provence-Alpes-Côte d'Azur,32727,19,1,6783,Tiers,800,Non,Non,2,0.32,14184
+1100,32,Provence-Alpes-Côte d'Azur,17153,17,1,1934,Tiers,1000,Non,Non,3,0.17,5973
+1101,77,Île-de-France,28260,10,2,4728,Tous risques,800,Non,Non,0,0.02,10041
+1102,47,Île-de-France,16235,13,0,0,Tiers,1000,Non,Oui,1,0.19,3746
+1103,72,Bretagne,46761,8,3,3376,Tiers,500,Non,Non,4,0.25,3685
+1104,59,Provence-Alpes-Côte d'Azur,39270,14,1,4624,Tiers,300,Non,Non,3,0.12,3049
+1105,68,Auvergne-Rhône-Alpes,30734,11,2,10048,Tous risques,300,Oui,Non,3,0.1,6804
+1106,34,Île-de-France,52046,9,5,23075,Tous risques,1000,Non,Non,2,0.44,8226
+1107,22,Bretagne,35815,18,0,0,Tiers,800,Non,Non,1,0.16,655
+1108,46,Provence-Alpes-Côte d'Azur,17825,18,2,2830,Tous risques,500,Non,Non,2,0.19,12577
+1109,21,Provence-Alpes-Côte d'Azur,29726,5,2,4524,Tous risques,800,Non,Non,2,0.4,7934
+1110,27,Auvergne-Rhône-Alpes,54594,19,1,2741,Tiers,300,Non,Non,3,0.42,2779
+1111,73,Bretagne,26966,5,0,0,Tiers,300,Non,Non,2,0.54,1475
+1112,34,Provence-Alpes-Côte d'Azur,38302,7,0,0,Tous risques,800,Oui,Oui,0,0.59,1416
+1113,27,Île-de-France,43926,0,2,2529,Tous risques,1000,Non,Non,3,0.33,4235
+1114,34,Auvergne-Rhône-Alpes,42079,16,2,6727,Tiers,1000,Non,Oui,5,0.29,7739
+1115,77,Bretagne,64393,16,3,10495,Tous risques,800,Non,Non,2,0.46,12973
+1116,37,Auvergne-Rhône-Alpes,20884,14,2,7410,Tous risques,300,Non,Non,3,0.27,13592
+1117,41,Île-de-France,22082,6,1,5961,Tiers,800,Non,Non,1,0.16,12568
+1118,22,Bretagne,21082,18,2,3176,Tous risques,300,Non,Oui,4,0.58,5264
+1119,51,Auvergne-Rhône-Alpes,31448,2,2,10447,Tous risques,800,Non,Oui,3,0.26,4945
+1120,23,Nouvelle-Aquitaine,48192,10,2,6055,Tous risques,1000,Non,Non,5,0.17,14818
+1121,70,Île-de-France,22619,19,1,2859,Tous risques,500,Non,Non,2,0.17,10378
+1122,19,Île-de-France,48360,18,0,0,Tiers,300,Non,Non,0,0.5,4921
+1123,30,Île-de-France,35421,8,1,2490,Tous risques,500,Non,Oui,3,0.18,5271
+1124,79,Nouvelle-Aquitaine,21692,9,1,4855,Tous risques,1000,Non,Oui,1,0.39,6802
+1125,60,Nouvelle-Aquitaine,13983,1,1,2650,Tous risques,800,Oui,Non,0,0.37,9516
+1126,60,Provence-Alpes-Côte d'Azur,16669,0,3,12128,Tiers,1000,Non,Oui,3,0.22,13520
+1127,65,Auvergne-Rhône-Alpes,27009,15,1,5717,Tiers,500,Oui,Non,2,0.61,3375
+1128,28,Provence-Alpes-Côte d'Azur,32970,17,2,12580,Tiers,1000,Oui,Non,2,0.43,1723
+1129,68,Auvergne-Rhône-Alpes,51152,16,1,6032,Tiers,1000,Non,Oui,2,0.07,6383
+1130,64,Nouvelle-Aquitaine,44589,5,3,13479,Tiers,800,Non,Oui,1,0.49,4059
+1131,74,Nouvelle-Aquitaine,24932,13,1,2492,Tous risques,500,Oui,Oui,3,0.21,8852
+1132,40,Provence-Alpes-Côte d'Azur,39903,14,2,9934,Tiers,500,Non,Non,2,0.13,10638
+1133,72,Bretagne,54818,13,1,5259,Tous risques,500,Oui,Non,3,0.17,5005
+1134,33,Provence-Alpes-Côte d'Azur,57487,2,4,4256,Tiers,300,Non,Non,5,0.37,10439
+1135,48,Auvergne-Rhône-Alpes,31227,18,0,0,Tiers,1000,Oui,Oui,0,0.06,5475
+1136,28,Provence-Alpes-Côte d'Azur,46499,11,1,6059,Tiers,500,Non,Non,0,0.35,9707
+1137,71,Île-de-France,51679,1,0,0,Tiers,1000,Non,Oui,2,0.31,9679
+1138,33,Auvergne-Rhône-Alpes,16915,2,1,2868,Tous risques,800,Non,Non,3,0.37,4533
+1139,25,Auvergne-Rhône-Alpes,28851,17,6,37384,Tiers,800,Non,Non,2,0.27,9717
+1140,21,Bretagne,61640,0,0,0,Tous risques,300,Non,Non,2,0.19,6023
+1141,57,Nouvelle-Aquitaine,31387,19,3,6716,Tous risques,300,Non,Non,3,0.18,5378
+1142,21,Auvergne-Rhône-Alpes,-147,5,1,5124,Tous risques,800,Non,Non,0,0.51,4694
+1143,73,Nouvelle-Aquitaine,33548,4,2,6229,Tous risques,500,Non,Oui,1,0.25,5511
+1144,42,Provence-Alpes-Côte d'Azur,48495,0,1,5278,Tiers,800,Non,Non,2,0.17,11907
+1145,20,Île-de-France,35078,18,1,1946,Tous risques,1000,Non,Non,3,0.16,4055
+1146,49,Bretagne,43584,0,1,2513,Tous risques,300,Non,Non,4,0.07,10388
+1147,20,Nouvelle-Aquitaine,46258,15,0,0,Tiers,300,Non,Oui,4,0.25,13558
+1148,44,Auvergne-Rhône-Alpes,30740,11,1,6717,Tiers,800,Non,Non,4,0.18,5581
+1149,46,Nouvelle-Aquitaine,28767,7,1,3432,Tiers,500,Non,Non,1,0.42,927
+1150,49,Auvergne-Rhône-Alpes,36841,15,5,15116,Tous risques,500,Non,Non,2,0.26,856
+1151,67,Nouvelle-Aquitaine,37133,0,0,0,Tous risques,1000,Oui,Oui,4,0.33,2522
+1152,78,Auvergne-Rhône-Alpes,35648,3,3,5761,Tiers,300,Oui,Non,1,0.15,2095
+1153,75,Provence-Alpes-Côte d'Azur,36141,9,1,3526,Tous risques,800,Non,Non,1,0.24,11347
+1154,68,Auvergne-Rhône-Alpes,26017,10,2,2822,Tous risques,800,Non,Non,1,0.18,4775
+1155,36,Auvergne-Rhône-Alpes,44003,16,2,8128,Tous risques,300,Non,Non,0,0.52,9961
+1156,38,Île-de-France,42190,6,0,0,Tiers,800,Non,Non,3,0.42,1115
+1157,22,Auvergne-Rhône-Alpes,18967,11,4,22412,Tous risques,300,Non,Non,2,0.47,4788
+1158,35,Île-de-France,30330,6,0,0,Tous risques,500,Non,Non,2,0.13,3895
+1159,45,Bretagne,36116,11,1,3675,Tous risques,500,Non,Non,1,0.55,4514
+1160,59,Île-de-France,28588,14,3,7043,Tous risques,800,Oui,Non,3,0.32,3265
+1161,78,Provence-Alpes-Côte d'Azur,42648,1,1,5361,Tous risques,500,Non,Oui,1,0.16,9459
+1162,39,Île-de-France,34197,13,0,0,Tiers,500,Non,Non,2,0.26,10108
+1163,38,Bretagne,37028,12,2,3839,Tous risques,1000,Non,Non,3,0.02,2652
+1164,23,Provence-Alpes-Côte d'Azur,30191,3,1,6488,Tous risques,300,Non,Non,2,0.27,11246
+1165,18,Nouvelle-Aquitaine,11081,13,3,4159,Tous risques,300,Non,Non,3,0.06,4125
+1166,22,Nouvelle-Aquitaine,10395,13,2,2660,Tiers,800,Oui,Oui,0,0.42,4602
+1167,58,Île-de-France,42075,15,0,0,Tiers,300,Non,Non,2,0.56,12517
+1168,29,Île-de-France,38202,6,1,6456,Tous risques,1000,Non,Oui,2,0.12,13566
+1169,43,Bretagne,40263,18,2,8239,Tiers,800,Non,Non,1,0.08,12458
+1170,63,Bretagne,36613,1,1,5727,Tiers,800,Non,Non,2,0.27,2642
+1171,51,Auvergne-Rhône-Alpes,37574,9,0,0,Tiers,300,Non,Non,1,0.57,14989
+1172,66,Bretagne,46628,17,2,7882,Tous risques,500,Oui,Non,4,0.15,10246
+1173,31,Auvergne-Rhône-Alpes,40335,16,1,3149,Tiers,500,Oui,Non,0,0.05,7904
+1174,43,Provence-Alpes-Côte d'Azur,47490,4,2,11933,Tous risques,500,Non,Non,0,0.12,14345
+1175,62,Île-de-France,37057,11,3,3406,Tous risques,500,Non,Oui,3,0.2,12352
+1176,44,Provence-Alpes-Côte d'Azur,31395,5,1,2463,Tiers,1000,Non,Non,1,0.11,10530
+1177,26,Bretagne,37330,8,0,0,Tous risques,800,Non,Non,3,0.07,12656
+1178,43,Provence-Alpes-Côte d'Azur,24965,19,3,18465,Tous risques,500,Non,Oui,1,0.55,6089
+1179,74,Provence-Alpes-Côte d'Azur,30441,0,0,0,Tous risques,1000,Non,Non,2,0.1,10424
+1180,64,Provence-Alpes-Côte d'Azur,37130,14,1,3425,Tous risques,800,Non,Non,1,0.1,3263
+1181,74,Bretagne,36971,5,0,0,Tous risques,300,Non,Oui,3,0.17,14826
+1182,39,Provence-Alpes-Côte d'Azur,33722,18,1,6831,Tous risques,300,Oui,Oui,0,0.17,9040
+1183,64,Auvergne-Rhône-Alpes,18341,17,0,0,Tiers,1000,Non,Oui,2,0.33,12306
+1184,73,Bretagne,42636,5,1,5238,Tous risques,800,Non,Non,1,0.45,6406
+1185,47,Provence-Alpes-Côte d'Azur,45010,12,0,0,Tous risques,500,Non,Non,4,0.07,11499
+1186,60,Bretagne,54724,0,1,1991,Tous risques,800,Oui,Non,1,0.27,6117
+1187,65,Nouvelle-Aquitaine,40301,12,1,6528,Tous risques,500,Non,Non,4,0.28,9055
+1188,78,Auvergne-Rhône-Alpes,35017,6,1,3538,Tiers,1000,Non,Oui,5,0.17,11782
+1189,34,Provence-Alpes-Côte d'Azur,22843,14,0,0,Tous risques,500,Non,Non,3,0.15,2188
+1190,43,Nouvelle-Aquitaine,52904,11,2,7651,Tiers,1000,Non,Oui,0,0.38,5673
+1191,53,Nouvelle-Aquitaine,37973,0,1,6507,Tous risques,800,Non,Oui,3,0.31,8401
+1192,18,Bretagne,37320,14,2,6644,Tiers,800,Non,Non,0,0.35,5342
+1193,25,Nouvelle-Aquitaine,31951,3,2,8751,Tous risques,500,Non,Oui,1,0.15,4982
+1194,66,Auvergne-Rhône-Alpes,31184,12,2,11635,Tous risques,800,Non,Non,4,0.43,4584
+1195,52,Auvergne-Rhône-Alpes,43259,4,2,7125,Tous risques,500,Oui,Non,2,0.41,3802
+1196,78,Île-de-France,22742,1,1,2401,Tous risques,800,Non,Oui,1,0.56,12809
+1197,69,Auvergne-Rhône-Alpes,54505,0,2,13934,Tous risques,300,Non,Non,1,0.32,13893
+1198,32,Nouvelle-Aquitaine,51890,15,1,6739,Tous risques,500,Non,Non,0,0.17,10652
+1199,64,Auvergne-Rhône-Alpes,30751,5,0,0,Tous risques,1000,Non,Non,3,0.27,934
+1200,73,Bretagne,24633,15,1,5130,Tous risques,300,Non,Oui,1,0.62,11900
+1201,39,Île-de-France,10817,13,3,8307,Tous risques,1000,Oui,Oui,2,0.29,8213
+1202,31,Nouvelle-Aquitaine,19983,2,3,19441,Tous risques,800,Non,Non,4,0.19,11492
+1203,43,Île-de-France,43758,14,1,2653,Tiers,300,Non,Non,1,0.23,6841
+1204,45,Nouvelle-Aquitaine,38784,2,0,0,Tous risques,800,Non,Oui,1,0.24,1098
+1205,40,Bretagne,40923,1,4,26038,Tiers,500,Non,Non,4,0.25,10385
+1206,31,Île-de-France,12853,0,3,13854,Tous risques,1000,Non,Oui,1,0.25,6939
+1207,41,Provence-Alpes-Côte d'Azur,30250,8,2,11636,Tiers,800,Non,Oui,5,0.51,13173
+1208,19,Nouvelle-Aquitaine,51407,8,1,5750,Tous risques,1000,Non,Oui,3,0.27,11203
+1209,62,Provence-Alpes-Côte d'Azur,33847,6,3,6476,Tiers,1000,Non,Non,2,0.17,5713
+1210,43,Île-de-France,19732,2,2,10015,Tiers,800,Non,Oui,0,0.06,10999
+1211,31,Provence-Alpes-Côte d'Azur,33660,17,1,1560,Tiers,500,Non,Non,2,0.21,7680
+1212,76,Provence-Alpes-Côte d'Azur,25747,10,0,0,Tiers,1000,Non,Non,3,0.3,3391
+1213,73,Île-de-France,39004,6,2,3946,Tous risques,800,Non,Oui,3,0.29,6588
+1214,68,Bretagne,35246,8,1,3498,Tiers,500,Non,Non,1,0.46,3727
+1215,24,Provence-Alpes-Côte d'Azur,41519,0,0,0,Tiers,800,Non,Non,2,0.52,572
+1216,20,Provence-Alpes-Côte d'Azur,20384,13,3,20769,Tiers,500,Non,Non,0,0.2,4078
+1217,64,Bretagne,29615,19,0,0,Tous risques,1000,Non,Non,1,0.26,3538
+1218,40,Provence-Alpes-Côte d'Azur,48085,5,2,8383,Tous risques,300,Non,Non,4,0.26,562
+1219,63,Provence-Alpes-Côte d'Azur,18748,6,0,0,Tiers,800,Non,Oui,3,0.18,11866
+1220,60,Provence-Alpes-Côte d'Azur,22962,9,2,13452,Tous risques,1000,Non,Non,1,0.31,1616
+1221,64,Auvergne-Rhône-Alpes,37391,6,1,3871,Tous risques,800,Non,Oui,1,0.52,7011
+1222,77,Bretagne,38440,1,1,5194,Tiers,800,Non,Non,0,0.26,6559
+1223,62,Provence-Alpes-Côte d'Azur,29133,3,2,13061,Tous risques,500,Non,Oui,3,0.3,3130
+1224,35,Bretagne,31658,16,1,3240,Tiers,800,Non,Oui,1,0.29,14519
+1225,75,Nouvelle-Aquitaine,41398,0,1,6412,Tous risques,500,Non,Non,1,0.58,9254
+1226,55,Nouvelle-Aquitaine,45195,9,1,6504,Tiers,1000,Non,Oui,1,0.06,12295
+1227,52,Provence-Alpes-Côte d'Azur,22169,18,2,13167,Tous risques,800,Non,Non,1,0.15,7694
+1228,68,Bretagne,39371,14,3,7868,Tiers,1000,Non,Oui,0,0.47,10980
+1229,32,Bretagne,53144,9,3,10206,Tous risques,300,Non,Non,1,0.16,14561
+1230,42,Bretagne,33609,18,1,6222,Tous risques,1000,Non,Oui,2,0.24,5551
+1231,72,Auvergne-Rhône-Alpes,22041,11,1,3154,Tiers,800,Non,Non,0,0.18,7811
+1232,54,Nouvelle-Aquitaine,21486,15,1,4601,Tous risques,300,Non,Non,2,0.09,7960
+1233,45,Bretagne,33071,8,2,3416,Tiers,500,Oui,Non,2,0.16,14883
+1234,27,Bretagne,47430,14,3,4012,Tous risques,300,Non,Oui,0,0.14,3879
+1235,56,Auvergne-Rhône-Alpes,34510,16,0,0,Tiers,800,Non,Non,4,0.28,10291
+1236,74,Auvergne-Rhône-Alpes,37270,13,1,4473,Tiers,800,Non,Non,1,0.42,2504
+1237,34,Bretagne,23043,17,2,6712,Tous risques,1000,Non,Non,2,0.23,13942
+1238,56,Île-de-France,46797,1,1,4466,Tous risques,500,Non,Non,3,0.18,9060
+1239,39,Bretagne,21252,3,1,4090,Tous risques,800,Non,Non,2,0.28,12961
+1240,43,Bretagne,28946,17,1,5114,Tiers,800,Non,Non,1,0.3,13481
+1241,79,Auvergne-Rhône-Alpes,42558,6,2,9794,Tiers,500,Non,Oui,2,0.22,8578
+1242,61,Auvergne-Rhône-Alpes,10526,12,1,3545,Tous risques,500,Non,Oui,3,0.37,10389
+1243,42,Bretagne,37087,14,2,7099,Tous risques,1000,Non,Non,1,0.18,10631
+1244,34,Bretagne,22531,0,0,0,Tiers,300,Non,Oui,1,0.08,7176
+1245,30,Bretagne,35198,10,0,0,Tiers,500,Oui,Oui,1,0.4,6805
+1246,37,Auvergne-Rhône-Alpes,30775,9,1,4523,Tiers,800,Non,Oui,1,0.13,3199
+1247,42,Bretagne,60270,4,1,3858,Tiers,500,Non,Oui,0,0.14,6066
+1248,21,Bretagne,30282,15,2,5908,Tiers,800,Non,Non,3,0.38,14865
+1249,27,Provence-Alpes-Côte d'Azur,57111,10,3,15989,Tiers,1000,Non,Non,2,0.07,4412
+1250,20,Île-de-France,42043,5,2,2895,Tous risques,300,Non,Non,2,0.47,11555
+1251,58,Nouvelle-Aquitaine,25382,8,1,6486,Tous risques,1000,Non,Non,0,0.13,1360
+1252,62,Île-de-France,38969,12,1,1123,Tiers,500,Non,Non,3,0.32,7278
+1253,35,Provence-Alpes-Côte d'Azur,31347,7,1,6774,Tiers,800,Non,Non,0,0.25,1346
+1254,64,Nouvelle-Aquitaine,37905,13,1,3774,Tiers,500,Non,Non,3,0.29,7399
+1255,53,Bretagne,26433,0,2,6952,Tous risques,500,Non,Non,2,0.12,899
+1256,64,Provence-Alpes-Côte d'Azur,55282,16,2,5077,Tous risques,500,Non,Non,1,0.34,9392
+1257,39,Bretagne,46104,4,1,1060,Tous risques,500,Non,Non,1,0.34,9004
+1258,51,Auvergne-Rhône-Alpes,35381,1,0,0,Tous risques,300,Non,Oui,2,0.41,12068
+1259,64,Provence-Alpes-Côte d'Azur,55749,8,3,4969,Tous risques,800,Non,Oui,1,0.19,8957
+1260,25,Auvergne-Rhône-Alpes,35891,3,1,4958,Tiers,500,Non,Non,2,0.29,13926
+1261,57,Provence-Alpes-Côte d'Azur,48171,16,1,2914,Tiers,800,Non,Non,3,0.48,11855
+1262,66,Provence-Alpes-Côte d'Azur,35459,16,2,11206,Tous risques,300,Oui,Non,2,0.17,2423
+1263,61,Auvergne-Rhône-Alpes,39726,17,0,0,Tiers,800,Non,Non,0,0.56,4349
+1264,36,Nouvelle-Aquitaine,34022,15,1,6401,Tous risques,800,Non,Non,1,0.09,880
+1265,59,Île-de-France,36143,7,1,4137,Tous risques,300,Non,Non,0,0.43,6098
+1266,58,Bretagne,37046,10,3,5061,Tous risques,500,Non,Non,3,0.18,7888
+1267,54,Provence-Alpes-Côte d'Azur,26963,17,3,10215,Tiers,800,Non,Non,4,0.17,14216
+1268,23,Bretagne,30187,9,2,4481,Tous risques,1000,Non,Non,3,0.28,8072
+1269,69,Auvergne-Rhône-Alpes,32398,12,2,4396,Tous risques,800,Oui,Oui,0,0.5,11824
+1270,43,Bretagne,37756,16,1,4038,Tous risques,500,Non,Non,3,0.15,4386
+1271,51,Auvergne-Rhône-Alpes,34633,17,1,5031,Tous risques,1000,Non,Non,2,0.28,2720
+1272,76,Bretagne,49076,9,1,6469,Tous risques,500,Non,Non,4,0.37,12257
+1273,73,Île-de-France,45165,15,0,0,Tiers,800,Oui,Non,1,0.3,4087
+1274,76,Île-de-France,32644,19,1,6795,Tous risques,300,Non,Non,3,0.3,13134
+1275,62,Île-de-France,51581,4,1,6649,Tiers,500,Non,Oui,1,0.1,2962
+1276,23,Île-de-France,57476,12,1,6190,Tiers,500,Non,Non,2,0.05,12848
+1277,54,Île-de-France,10474,17,3,11999,Tous risques,300,Non,Non,2,0.29,11706
+1278,74,Île-de-France,46187,16,2,3690,Tous risques,800,Non,Oui,2,0.37,9362
+1279,50,Auvergne-Rhône-Alpes,26684,8,0,0,Tiers,500,Oui,Non,6,0.18,12828
+1280,70,Provence-Alpes-Côte d'Azur,44608,13,5,24430,Tiers,800,Oui,Non,1,0.1,5295
+1281,39,Bretagne,49858,16,0,0,Tiers,800,Non,Non,2,0.41,2907
+1282,38,Île-de-France,24476,3,0,0,Tous risques,800,Non,Non,2,0.24,2777
+1283,23,Auvergne-Rhône-Alpes,12772,17,6,23243,Tiers,300,Non,Oui,1,0.47,4420
+1284,23,Auvergne-Rhône-Alpes,45025,19,2,2209,Tiers,800,Non,Non,1,0.22,6970
+1285,72,Auvergne-Rhône-Alpes,36624,14,2,10806,Tiers,800,Non,Non,2,0.36,13202
+1286,65,Provence-Alpes-Côte d'Azur,14978,10,0,0,Tous risques,1000,Oui,Non,1,0.06,1798
+1287,21,Bretagne,65354,11,3,14324,Tous risques,1000,Non,Non,5,0.52,13771
+1288,47,Provence-Alpes-Côte d'Azur,42493,8,0,0,Tiers,1000,Non,Oui,1,0.06,13919
+1289,28,Nouvelle-Aquitaine,43041,12,0,0,Tous risques,500,Non,Non,0,0.25,11044
+1290,79,Auvergne-Rhône-Alpes,51389,14,0,0,Tiers,500,Non,Non,4,0.7,13554
+1291,79,Nouvelle-Aquitaine,28030,14,0,0,Tous risques,1000,Non,Non,2,0.25,11664
+1292,47,Île-de-France,36565,4,2,5127,Tous risques,300,Non,Non,2,0.4,8160
+1293,48,Île-de-France,19168,18,0,0,Tiers,300,Non,Non,2,0.02,9210
+1294,41,Provence-Alpes-Côte d'Azur,27704,19,0,0,Tiers,1000,Oui,Non,1,0.12,9609
+1295,72,Bretagne,39627,13,3,12984,Tous risques,500,Non,Non,1,0.34,2339
+1296,26,Nouvelle-Aquitaine,15016,16,1,4451,Tiers,500,Non,Non,3,0.05,3299
+1297,72,Bretagne,27364,17,1,1785,Tous risques,300,Oui,Oui,1,0.47,8088
+1298,20,Provence-Alpes-Côte d'Azur,23864,2,0,0,Tiers,800,Non,Non,0,0.4,2170
+1299,68,Île-de-France,36705,1,1,2609,Tiers,300,Oui,Non,7,0.02,14492
+1300,48,Bretagne,41896,0,3,18156,Tous risques,800,Non,Non,2,0.34,7853
+1301,57,Bretagne,43905,9,2,5762,Tous risques,500,Non,Non,1,0.12,6011
+1302,54,Île-de-France,46985,18,0,0,Tous risques,500,Non,Non,2,0.33,2784
+1303,53,Nouvelle-Aquitaine,51465,16,2,7142,Tiers,1000,Oui,Non,0,0.21,6539
+1304,41,Île-de-France,42286,11,2,10719,Tous risques,500,Non,Oui,2,0.06,4885
+1305,48,Bretagne,57648,0,1,4060,Tous risques,800,Non,Non,3,0.11,1774
+1306,23,Nouvelle-Aquitaine,36434,11,1,4731,Tous risques,300,Non,Non,2,0.13,14521
+1307,19,Nouvelle-Aquitaine,32920,16,1,3372,Tous risques,1000,Non,Non,1,0.33,4342
+1308,37,Île-de-France,42287,2,2,11218,Tiers,800,Non,Non,1,0.61,10511
+1309,45,Bretagne,32403,10,1,3551,Tous risques,300,Non,Non,2,0.57,1824
+1310,28,Provence-Alpes-Côte d'Azur,57230,16,0,0,Tous risques,300,Non,Non,2,0.37,13740
+1311,21,Bretagne,48571,2,1,4106,Tiers,300,Non,Oui,5,0.1,9065
+1312,32,Auvergne-Rhône-Alpes,44003,7,1,5990,Tous risques,500,Non,Non,0,0.01,10024
+1313,23,Provence-Alpes-Côte d'Azur,36577,19,0,0,Tiers,300,Oui,Non,2,0.33,11835
+1314,71,Nouvelle-Aquitaine,30110,3,1,3094,Tiers,500,Non,Non,5,0.07,9285
+1315,66,Provence-Alpes-Côte d'Azur,43415,6,2,10043,Tous risques,300,Non,Oui,4,0.48,1528
+1316,47,Nouvelle-Aquitaine,21474,13,0,0,Tiers,300,Non,Non,4,0.14,6728
+1317,73,Nouvelle-Aquitaine,53412,13,2,13172,Tiers,500,Non,Non,2,0.11,4299
+1318,55,Provence-Alpes-Côte d'Azur,32868,3,1,6048,Tous risques,500,Non,Oui,1,0.29,7557
+1319,68,Nouvelle-Aquitaine,38661,15,4,19538,Tous risques,800,Non,Non,0,0.14,6362
+1320,79,Nouvelle-Aquitaine,24084,0,2,6098,Tous risques,300,Non,Oui,2,0.57,12484
+1321,74,Auvergne-Rhône-Alpes,43675,16,3,17032,Tous risques,500,Oui,Non,3,0.26,4082
+1322,19,Bretagne,29555,9,2,8902,Tiers,800,Non,Non,3,0.25,3418
+1323,32,Bretagne,42790,15,2,13823,Tous risques,800,Non,Non,0,0.4,14392
+1324,28,Auvergne-Rhône-Alpes,44088,15,0,0,Tous risques,500,Non,Non,4,0.31,14267
+1325,25,Provence-Alpes-Côte d'Azur,27228,7,4,5911,Tiers,300,Non,Oui,2,0.38,14905
+1326,43,Île-de-France,21517,6,0,0,Tous risques,800,Non,Non,4,0.52,8741
+1327,68,Île-de-France,53382,5,1,4840,Tiers,300,Non,Non,3,0.13,2140
+1328,62,Île-de-France,32692,15,1,6635,Tiers,300,Oui,Non,0,0.41,13262
+1329,61,Auvergne-Rhône-Alpes,37698,19,1,1011,Tous risques,800,Non,Non,2,0.32,2604
+1330,22,Auvergne-Rhône-Alpes,40825,15,1,5354,Tous risques,500,Oui,Non,1,0.11,2756
+1331,23,Nouvelle-Aquitaine,19955,6,0,0,Tiers,300,Oui,Oui,3,0.15,3304
+1332,43,Île-de-France,40551,8,0,0,Tiers,1000,Non,Oui,4,0.36,9974
+1333,71,Provence-Alpes-Côte d'Azur,36189,13,1,3132,Tous risques,500,Non,Oui,2,0.63,2054
+1334,21,Provence-Alpes-Côte d'Azur,27277,10,0,0,Tiers,800,Oui,Non,2,0.46,11785
+1335,36,Île-de-France,21121,13,0,0,Tiers,1000,Non,Non,3,0.1,1344
+1336,37,Île-de-France,42270,6,1,5532,Tous risques,300,Non,Non,3,0.33,2101
+1337,50,Île-de-France,48532,0,1,2602,Tous risques,500,Non,Non,0,0.13,6800
+1338,37,Auvergne-Rhône-Alpes,37143,12,2,7722,Tous risques,1000,Oui,Non,6,0.3,5997
+1339,66,Auvergne-Rhône-Alpes,17786,19,3,17807,Tous risques,500,Non,Non,2,0.27,14850
+1340,29,Auvergne-Rhône-Alpes,22312,2,2,5256,Tous risques,300,Non,Oui,4,0.28,14519
+1341,64,Bretagne,29814,19,1,2111,Tous risques,500,Non,Non,2,0.15,3250
+1342,18,Provence-Alpes-Côte d'Azur,53775,3,1,5087,Tiers,1000,Non,Oui,3,0.07,14226
+1343,43,Provence-Alpes-Côte d'Azur,32038,10,0,0,Tous risques,500,Non,Non,1,0.63,10537
+1344,31,Nouvelle-Aquitaine,29377,1,1,4086,Tous risques,800,Oui,Non,5,0.53,6428
+1345,55,Auvergne-Rhône-Alpes,14918,13,1,2540,Tiers,800,Non,Oui,2,0.31,11224
+1346,54,Bretagne,27119,11,1,1209,Tiers,1000,Oui,Non,2,0.28,13552
+1347,79,Bretagne,20204,16,2,6923,Tous risques,500,Non,Oui,1,0.31,3112
+1348,28,Provence-Alpes-Côte d'Azur,22961,11,0,0,Tiers,1000,Non,Non,0,0.52,3341
+1349,53,Auvergne-Rhône-Alpes,36439,11,2,12871,Tiers,500,Non,Non,1,0.23,6426
+1350,30,Nouvelle-Aquitaine,30186,0,4,4990,Tous risques,300,Oui,Non,1,0.23,2953
+1351,60,Auvergne-Rhône-Alpes,55393,12,2,7179,Tous risques,800,Non,Non,1,0.24,5725
+1352,20,Île-de-France,47936,13,1,1313,Tous risques,300,Non,Non,2,0.19,9862
+1353,50,Auvergne-Rhône-Alpes,27693,1,1,1573,Tiers,500,Oui,Non,1,0.2,12285
+1354,23,Île-de-France,23998,11,1,4953,Tiers,300,Non,Oui,3,0.49,4878
+1355,67,Île-de-France,51591,15,4,19530,Tous risques,1000,Non,Oui,3,0.3,4585
+1356,73,Nouvelle-Aquitaine,54920,3,1,1198,Tiers,1000,Non,Oui,3,0.2,11806
+1357,27,Provence-Alpes-Côte d'Azur,8669,7,1,1006,Tous risques,500,Non,Non,4,0.26,6024
+1358,22,Auvergne-Rhône-Alpes,36114,1,0,0,Tiers,800,Oui,Non,3,0.1,12367
+1359,40,Île-de-France,31977,9,1,5577,Tous risques,1000,Non,Non,4,0.25,14904
+1360,27,Auvergne-Rhône-Alpes,42789,8,1,4507,Tous risques,800,Oui,Non,1,0.36,14705
+1361,61,Provence-Alpes-Côte d'Azur,58312,14,1,1228,Tiers,500,Non,Oui,3,0.13,10108
+1362,19,Provence-Alpes-Côte d'Azur,29191,12,1,3928,Tous risques,800,Non,Oui,3,0.05,5940
+1363,30,Bretagne,10271,16,1,5272,Tiers,500,Non,Non,1,0.45,1449
+1364,57,Provence-Alpes-Côte d'Azur,41948,15,1,6213,Tiers,300,Non,Oui,2,0.12,11201
+1365,19,Nouvelle-Aquitaine,51679,1,2,13208,Tous risques,500,Oui,Non,3,0.29,14680
+1366,37,Île-de-France,31354,19,0,0,Tiers,300,Non,Non,1,0.35,1485
+1367,18,Bretagne,26539,19,2,3629,Tous risques,500,Non,Non,3,0.25,589
+1368,54,Nouvelle-Aquitaine,29752,13,1,2421,Tiers,1000,Non,Non,3,0.15,12560
+1369,26,Auvergne-Rhône-Alpes,45202,2,1,5657,Tiers,1000,Oui,Non,1,0.27,1982
+1370,34,Île-de-France,29546,11,1,6828,Tiers,800,Non,Non,6,0.35,1683
+1371,26,Provence-Alpes-Côte d'Azur,38945,7,1,3798,Tous risques,500,Non,Oui,6,0.5,13699
+1372,28,Île-de-France,35333,1,3,8496,Tous risques,500,Non,Non,1,0.2,1653
+1373,32,Auvergne-Rhône-Alpes,34095,3,2,7150,Tiers,500,Oui,Oui,5,0.29,2153
+1374,41,Bretagne,43415,13,3,8486,Tiers,800,Oui,Oui,2,0.35,8758
+1375,55,Bretagne,29257,15,0,0,Tous risques,1000,Non,Non,1,0.18,11473
+1376,72,Bretagne,29832,18,1,4562,Tous risques,500,Non,Non,2,0.23,6293
+1377,52,Provence-Alpes-Côte d'Azur,44571,1,3,3283,Tous risques,800,Oui,Oui,0,0.37,6598
+1378,47,Nouvelle-Aquitaine,23156,11,0,0,Tous risques,500,Non,Oui,4,0.17,9673
+1379,48,Nouvelle-Aquitaine,24437,13,3,14904,Tous risques,300,Non,Oui,1,0.18,7828
+1380,66,Île-de-France,19876,5,0,0,Tiers,500,Non,Non,1,0.32,770
+1381,22,Provence-Alpes-Côte d'Azur,45188,12,0,0,Tiers,300,Non,Non,0,0.1,2146
+1382,79,Bretagne,33737,3,1,2760,Tiers,800,Non,Oui,1,0.23,8933
+1383,77,Bretagne,19236,17,0,0,Tous risques,800,Non,Non,2,0.12,12008
+1384,61,Auvergne-Rhône-Alpes,45245,11,0,0,Tous risques,1000,Non,Non,3,0.14,11564
+1385,67,Auvergne-Rhône-Alpes,28333,19,2,2265,Tous risques,500,Non,Non,2,0.23,11230
+1386,31,Bretagne,24539,18,0,0,Tiers,800,Non,Non,2,0.12,11683
+1387,70,Bretagne,32651,7,1,2648,Tous risques,1000,Non,Non,2,0.17,1144
+1388,73,Provence-Alpes-Côte d'Azur,52744,6,0,0,Tous risques,500,Non,Non,4,0.37,13478
+1389,28,Nouvelle-Aquitaine,30260,15,0,0,Tous risques,800,Non,Non,1,0.13,13394
+1390,26,Auvergne-Rhône-Alpes,41904,18,1,6177,Tiers,300,Non,Oui,2,0.65,8212
+1391,51,Nouvelle-Aquitaine,43724,5,0,0,Tous risques,800,Non,Non,3,0.33,4104
+1392,29,Provence-Alpes-Côte d'Azur,40319,19,1,6966,Tiers,300,Non,Non,2,0.44,9086
+1393,52,Bretagne,50252,10,2,13759,Tous risques,1000,Non,Oui,5,0.31,8589
+1394,52,Nouvelle-Aquitaine,26514,4,1,6293,Tous risques,1000,Non,Oui,0,0.38,3732
+1395,18,Bretagne,22479,15,1,4449,Tiers,500,Oui,Oui,5,0.44,9245
+1396,57,Bretagne,22244,6,2,6776,Tous risques,500,Non,Non,2,0.38,12060
+1397,39,Île-de-France,33266,4,5,15931,Tiers,500,Non,Oui,2,0.19,12188
+1398,77,Nouvelle-Aquitaine,23635,10,2,2145,Tous risques,1000,Non,Non,1,0.43,1365
+1399,46,Nouvelle-Aquitaine,36770,14,0,0,Tiers,300,Non,Non,3,0.4,3358
+1400,25,Bretagne,35923,2,5,26564,Tous risques,500,Non,Non,1,0.41,10189
+1401,28,Provence-Alpes-Côte d'Azur,47222,4,0,0,Tous risques,500,Non,Non,3,0.06,12967
+1402,58,Île-de-France,38493,4,1,6498,Tiers,1000,Non,Non,3,0.15,8057
+1403,54,Bretagne,30006,8,3,3900,Tous risques,300,Non,Oui,2,0.24,10759
+1404,31,Auvergne-Rhône-Alpes,39930,14,0,0,Tous risques,800,Non,Non,3,0.31,805
+1405,77,Auvergne-Rhône-Alpes,22637,2,1,5735,Tiers,500,Non,Oui,1,0.42,9322
+1406,47,Île-de-France,34542,5,1,3151,Tous risques,800,Oui,Non,1,0.33,14447
+1407,52,Provence-Alpes-Côte d'Azur,38832,16,1,1710,Tous risques,800,Oui,Non,3,0.38,10084
+1408,38,Bretagne,36551,7,1,6978,Tous risques,500,Non,Non,2,0.14,13872
+1409,54,Nouvelle-Aquitaine,39980,10,0,0,Tous risques,1000,Non,Non,3,0.3,8707
+1410,22,Île-de-France,27271,5,0,0,Tous risques,500,Non,Oui,3,0.17,12728
+1411,36,Provence-Alpes-Côte d'Azur,48824,7,1,5940,Tous risques,300,Oui,Non,1,0.43,2300
+1412,76,Nouvelle-Aquitaine,56866,9,2,10167,Tous risques,300,Oui,Non,0,0.22,2290
+1413,31,Auvergne-Rhône-Alpes,15767,2,1,5739,Tous risques,500,Oui,Oui,3,0.1,2242
+1414,43,Auvergne-Rhône-Alpes,20412,13,0,0,Tiers,800,Non,Non,1,0.42,7588
+1415,79,Nouvelle-Aquitaine,35516,13,2,3016,Tous risques,300,Non,Non,1,0.36,5288
+1416,21,Île-de-France,31921,9,1,4737,Tous risques,300,Non,Non,1,0.22,10928
+1417,42,Auvergne-Rhône-Alpes,57756,11,0,0,Tous risques,500,Oui,Non,1,0.31,13588
+1418,62,Bretagne,37637,5,1,1260,Tous risques,500,Non,Oui,3,0.26,9480
+1419,59,Nouvelle-Aquitaine,51710,11,0,0,Tiers,1000,Non,Non,1,0.32,3591
+1420,42,Nouvelle-Aquitaine,10410,13,0,0,Tous risques,500,Oui,Non,3,0.33,13997
+1421,35,Auvergne-Rhône-Alpes,44770,1,1,5415,Tous risques,500,Non,Oui,6,0.32,8153
+1422,57,Île-de-France,26413,8,1,6031,Tous risques,300,Oui,Non,0,0.18,10939
+1423,25,Bretagne,26221,9,1,6697,Tiers,300,Non,Oui,3,0.18,13412
+1424,56,Île-de-France,32019,16,1,6216,Tiers,300,Non,Non,2,0.27,14852
+1425,57,Provence-Alpes-Côte d'Azur,17904,16,1,3899,Tous risques,800,Non,Oui,1,0.15,7837
+1426,31,Provence-Alpes-Côte d'Azur,40313,2,1,3015,Tous risques,300,Non,Non,3,0.08,12216
+1427,49,Auvergne-Rhône-Alpes,37288,18,2,3853,Tiers,300,Non,Non,1,0.31,8719
+1428,68,Auvergne-Rhône-Alpes,38194,0,2,6803,Tiers,500,Non,Non,0,0.24,7553
+1429,78,Auvergne-Rhône-Alpes,45644,11,0,0,Tiers,1000,Non,Oui,1,0.44,8296
+1430,55,Provence-Alpes-Côte d'Azur,53177,6,0,0,Tiers,300,Non,Non,6,0.16,7521
+1431,50,Île-de-France,30635,3,1,4993,Tiers,1000,Non,Non,1,0.45,6604
+1432,40,Île-de-France,40728,9,0,0,Tous risques,300,Non,Oui,4,0.18,10993
+1433,32,Auvergne-Rhône-Alpes,38515,12,0,0,Tous risques,300,Non,Non,4,0.46,4120
+1434,50,Bretagne,39531,1,3,14587,Tiers,1000,Non,Non,1,0.12,9437
+1435,42,Île-de-France,39711,9,3,9031,Tous risques,500,Non,Non,2,0.41,10837
+1436,34,Provence-Alpes-Côte d'Azur,54086,3,2,2414,Tiers,300,Non,Oui,3,0.2,13435
+1437,50,Nouvelle-Aquitaine,29483,17,4,10915,Tiers,1000,Non,Non,1,0.13,5312
+1438,64,Nouvelle-Aquitaine,16691,4,0,0,Tiers,300,Oui,Oui,3,0.16,12978
+1439,72,Nouvelle-Aquitaine,26625,18,0,0,Tous risques,800,Oui,Non,3,0.17,14206
+1440,19,Bretagne,44087,1,1,5273,Tiers,800,Non,Oui,3,0.11,9905
+1441,31,Auvergne-Rhône-Alpes,35279,11,0,0,Tous risques,800,Non,Non,1,0.17,11685
+1442,70,Provence-Alpes-Côte d'Azur,29388,16,0,0,Tiers,800,Non,Non,3,0.07,6382
+1443,57,Bretagne,22082,9,4,10278,Tiers,500,Non,Oui,4,0.22,14305
+1444,57,Provence-Alpes-Côte d'Azur,37655,1,5,19889,Tiers,800,Non,Non,3,0.34,10227
+1445,68,Provence-Alpes-Côte d'Azur,42734,5,1,3510,Tous risques,1000,Non,Non,0,0.11,4997
+1446,56,Auvergne-Rhône-Alpes,38670,7,0,0,Tous risques,300,Oui,Oui,5,0.08,6361
+1447,68,Nouvelle-Aquitaine,31960,18,0,0,Tous risques,1000,Non,Non,2,0.52,9457
+1448,23,Auvergne-Rhône-Alpes,36759,10,0,0,Tiers,800,Non,Non,2,0.47,3894
+1449,23,Bretagne,36690,11,0,0,Tiers,500,Non,Non,1,0.12,11431
+1450,20,Bretagne,37276,8,1,4376,Tiers,800,Oui,Non,0,0.54,3758
+1451,24,Bretagne,20788,1,1,6786,Tiers,800,Non,Non,3,0.48,9080
+1452,68,Auvergne-Rhône-Alpes,37367,7,2,4606,Tous risques,500,Non,Non,2,0.49,10606
+1453,25,Provence-Alpes-Côte d'Azur,29712,10,1,5284,Tiers,500,Non,Non,2,0.53,12966
+1454,59,Provence-Alpes-Côte d'Azur,47487,3,0,0,Tiers,500,Non,Non,4,0.26,11141
+1455,69,Île-de-France,36595,9,1,2673,Tous risques,500,Non,Non,4,0.49,12082
+1456,32,Bretagne,45025,19,1,2082,Tous risques,500,Non,Non,1,0.14,13737
+1457,64,Provence-Alpes-Côte d'Azur,31378,15,0,0,Tous risques,500,Non,Non,1,0.39,9167
+1458,46,Île-de-France,31811,7,0,0,Tiers,300,Non,Non,1,0.26,12771
+1459,50,Provence-Alpes-Côte d'Azur,52931,3,1,2202,Tous risques,800,Oui,Oui,0,0.19,3862
+1460,69,Bretagne,40236,9,1,6943,Tiers,800,Non,Oui,2,0.33,12313
+1461,47,Nouvelle-Aquitaine,26425,11,0,0,Tous risques,500,Non,Non,2,0.7,3714
+1462,56,Bretagne,45763,13,0,0,Tous risques,1000,Non,Oui,2,0.4,14052
+1463,44,Auvergne-Rhône-Alpes,28600,15,0,0,Tous risques,500,Oui,Non,0,0.12,5284
+1464,53,Provence-Alpes-Côte d'Azur,37708,17,1,6813,Tiers,300,Non,Oui,5,0.13,2991
+1465,46,Provence-Alpes-Côte d'Azur,57040,11,2,8879,Tous risques,1000,Non,Oui,0,0.1,2648
+1466,55,Auvergne-Rhône-Alpes,17824,17,3,6964,Tiers,300,Non,Oui,3,0.49,3215
+1467,74,Auvergne-Rhône-Alpes,32890,6,2,12346,Tous risques,1000,Non,Non,0,0.37,6989
+1468,50,Nouvelle-Aquitaine,39899,19,2,10912,Tous risques,1000,Non,Oui,1,0.18,8071
+1469,78,Provence-Alpes-Côte d'Azur,44176,6,3,10457,Tous risques,500,Oui,Non,0,0.29,13749
+1470,54,Provence-Alpes-Côte d'Azur,20105,8,2,7682,Tous risques,300,Non,Non,2,0.11,6024
+1471,44,Nouvelle-Aquitaine,16570,0,3,10402,Tous risques,1000,Non,Non,0,0.29,3653
+1472,72,Île-de-France,48088,5,2,13159,Tiers,300,Non,Non,1,0.1,11285
+1473,50,Nouvelle-Aquitaine,26355,5,1,3061,Tous risques,500,Non,Non,0,0.3,2452
+1474,79,Bretagne,25852,11,0,0,Tous risques,500,Non,Non,1,0.72,13438
+1475,21,Provence-Alpes-Côte d'Azur,53602,11,0,0,Tous risques,500,Non,Non,1,0.16,6436
+1476,39,Auvergne-Rhône-Alpes,35836,9,1,4783,Tous risques,500,Non,Non,3,0.09,9400
+1477,19,Bretagne,35914,5,1,4478,Tous risques,800,Non,Non,4,0.36,3199
+1478,27,Provence-Alpes-Côte d'Azur,32842,16,1,3220,Tiers,1000,Non,Non,4,0.48,2610
+1479,22,Nouvelle-Aquitaine,20312,18,3,3330,Tous risques,800,Non,Non,1,0.5,12083
+1480,76,Bretagne,43108,17,0,0,Tiers,500,Oui,Non,3,0.05,6730
+1481,27,Provence-Alpes-Côte d'Azur,39913,5,4,22101,Tous risques,1000,Oui,Non,3,0.49,14807
+1482,50,Île-de-France,37024,18,0,0,Tous risques,1000,Non,Oui,1,0.08,8102
+1483,71,Île-de-France,33604,9,0,0,Tiers,300,Non,Non,0,0.56,12761
+1484,55,Auvergne-Rhône-Alpes,31492,7,1,2583,Tous risques,500,Non,Non,0,0.38,14709
+1485,30,Provence-Alpes-Côte d'Azur,45949,5,0,0,Tous risques,800,Non,Non,1,0.1,4576
+1486,48,Île-de-France,33304,6,1,3202,Tous risques,300,Oui,Non,0,0.18,12112
+1487,64,Nouvelle-Aquitaine,34231,0,1,6446,Tiers,1000,Non,Non,2,0.28,819
+1488,53,Provence-Alpes-Côte d'Azur,41358,17,2,5655,Tiers,800,Non,Non,2,0.3,10356
+1489,62,Nouvelle-Aquitaine,37495,19,2,8518,Tous risques,500,Non,Non,2,0.14,11305
+1490,41,Nouvelle-Aquitaine,54707,11,0,0,Tiers,800,Non,Non,3,0.16,7421
+1491,69,Île-de-France,13863,15,1,4131,Tous risques,800,Non,Non,2,0.38,2850
+1492,73,Provence-Alpes-Côte d'Azur,38598,9,5,24108,Tous risques,800,Non,Non,1,0.17,9442
+1493,32,Bretagne,26532,9,0,0,Tiers,300,Non,Non,4,0.06,13514
+1494,46,Île-de-France,23694,13,1,4473,Tous risques,1000,Oui,Oui,3,0.3,14004
+1495,25,Île-de-France,29515,19,1,4883,Tous risques,800,Non,Oui,0,0.35,11318
+1496,22,Provence-Alpes-Côte d'Azur,35656,9,2,10242,Tous risques,1000,Oui,Non,3,0.12,4323
+1497,46,Provence-Alpes-Côte d'Azur,36188,9,0,0,Tiers,300,Non,Non,2,0.16,13119
+1498,64,Nouvelle-Aquitaine,16792,10,1,2868,Tous risques,500,Non,Non,1,0.24,13387
+1499,21,Provence-Alpes-Côte d'Azur,28506,1,1,4406,Tiers,500,Non,Oui,1,0.53,5825
+1500,29,Nouvelle-Aquitaine,38374,19,1,6889,Tous risques,800,Oui,Oui,2,0.48,3153
