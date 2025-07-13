@@ -1,0 +1,12 @@
+# Exclusion des dependance de Dev
+.venv
+.env
+.devcontainer
+.git
+.gitignore
+
+# Exclusion des fichiers system
+Dockerfile-backend
+docker-compose
+
+# Exclude

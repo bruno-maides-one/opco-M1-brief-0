@@ -1,0 +1,38 @@
+services:
+  backend:
+    container_name: M1-backend
+    build:
+      # Build du backend a partir de son fichier Dockerfile propre
+      context: .
+      dockerfile: Dockerfile-backend
+    image: assurance_m1_b1_backend:latest
+#    ports:
+#      - "8000:8000"
+    environment:
+      - MLFLOW_URI=http://mlflow:5000
+
+# 'plugging' the source code to host filesystem to allow development in container
+#    volumes:
+#      - .:/app
+#    command: uvicorn main:app --host 0.0.0.0 --port 8000
+
+  frontend:
+    container_name: m1-frontend
+    build:
+      context: .
+      dockerfile: Dockerfile-frontend
+    image: assurance_m1_b1_frontend:latest
+    ports:
+      - "3000:8501"
+    environment:
+      - BACKEND_URI=http://backend:8000
+
+  mlflow:
+    container_name: m1-mlflow
+    build:
+      context: .
+      dockerfile: Dockerfile-mlflow
+    image: assurance_m1_b1_mlflow:latest
+    ports:
+      - "5000:5000"
+
