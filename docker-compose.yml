@@ -4,7 +4,8 @@ services:
     build:
       # Build du backend a partir de son fichier Dockerfile propre
       context: .
-      dockerfile: Dockerfile-backend
+      dockerfile: Dockerfile
+      target: backend
     image: assurance_m1_b1_backend:latest
 #    ports:
 #      - "8000:8000"
@@ -20,7 +21,8 @@ services:
     container_name: m1-frontend
     build:
       context: .
-      dockerfile: Dockerfile-frontend
+      dockerfile: Dockerfile
+      target: frontend
     image: assurance_m1_b1_frontend:latest
     ports:
       - "3000:8501"
@@ -31,7 +33,8 @@ services:
     container_name: m1-mlflow
     build:
       context: .
-      dockerfile: Dockerfile-mlflow
+      dockerfile: Dockerfile
+      target: mlflow
     image: assurance_m1_b1_mlflow:latest
     ports:
       - "5000:5000"
