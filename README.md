@@ -1,106 +1,66 @@
-# 🚀 Notre super modèle d'iA (oui, avec un petit 'i' pour l'humilité... ou pas) 🚀
+# Model training and prediction
 
-Salut à toi, explorateur du code, curieux de l'IA (ou juste là pour le café) ! Bienvenue dans le saint des saints de la prédiction, là où les bits dansent et les neurones... bah, ils calculent. On a concocté un truc pas piqué des hannetons, alors attache ta ceinture !
+## Development
 
----
+In development mode, the system is designed to be executed without `.env` file.
 
-#### 🛠️ Installation : Prêt à décoller ? 🛠️
+### Backend
 
-Pour que notre fusée de l'IA ne se transforme pas en vulgaire caillou, il faut un minimum de préparation.
+simply execute backend in reload mode in a console in order to update on file modification
 
-###### Le `.venv` (alias, notre petite bulle de sérénité)
-
-Pour éviter que ce projet ne mette le bazar dans ton PC (et vice-versa), on utilise un environnement virtuel. C'est comme une petite bulle magique où toutes les dépendances du projet vivent en harmonie, loin des conflits extérieurs.
-
-Si tu as Python (et un peu de chance) :
-
-```bash
-python -m venv .venv
+```shell
+uvicorn backend:app --reload
 ```
 
-Puis active-le (c'est le moment "abra cadabra") :
+**The backend will be availlable at http://localhost:8000**
 
-* **Windows (PowerShell) :**
-    ```bash
-    .\.venv\Scripts\Activate.ps1
-    ```
-* **Windows (CMD) :**
-    ```bash
-    .\.venv\Scripts\activate.bat
-    ```
-* **macOS / Linux :**
-    ```bash
-    source .venv/bin/activate
-    ```
-Félicitations ! Tu es dans notre bulle. Ne respire pas trop fort, l'air y est précieux.
+### Frontend
 
-###### Le `requirements.txt` (alias, la liste de courses pour les geeks)
+simply execute frontend in reload mode in a console in order to update on file modification
 
-Maintenant que tu es dans la bulle, il faut la meubler avec les outils nécessaires. Ce fichier contient tout ce qu'il faut pour que Python comprenne nos blagues (et nos calculs).
+```shell
+streamlit run frontend.py
+```
+**The front will be availlable at http://localhost:8501**
 
-Assure-toi que ton `.venv` est activé, puis :
+### MLFlow
 
-```bash
-pip install -r requirements.txt
+MFlow service will be launch to manage training tracking, only tracking feature will be use in this exercice.
+
+```shell
+mlflow ui
 ```
 
-Ça va mouliner un peu. C'est normal. C'est la magie qui s'opère.
+**MLflow will be availlable at http://localhost:5000**
 
----
 
-#### 🧠 Le Modèle : Notre cerveau artificiel (enfin, un bout) 🧠
+## Production
 
-Oublie les super-ordinateurs qui prennent toute une pièce. Notre bijou, c'est un **super Neural Network (NN)** ! Oui oui, un NN à l'état de l'art (pour nous, en tout cas). Il est si avancé qu'il a :
+The solution is designed to be deployed using docker through a docker-compose serving the 3 services in a stack.
+For the purpose of this exercice, docker will be used in local mode, there is no registry nor container manager such as docker-swarm or kubernetes
 
-* **2 couches "dense"** : parce que "dense", c'est le futur. Plus c'est dense, mieux c'est, n'est-ce pas ? 😉
-* **1 couche de prédiction** : c'est là que la magie se produit. Elle crache la réponse, et on espère qu'elle a raison.
+### Deployment
 
-Prépare-toi à être émerveillé (ou juste à voir des chiffres, c'est selon).
+Using the `docker-compose.yaml` file deployment can by realized with the command
 
----
-
-#### 🗺️ Architecture : Où va quoi dans notre petit monde ? 🗺️
-
-Pour ne pas se perdre dans les méandres de notre génie, voici comment on a organisé notre projet. C'est un peu comme une carte au trésor, mais le trésor, c'est le code !
-
-```
-.
-├── data/
-│   ├── df_new.csv
-│   └── df_old.csv
-├── models/
-│   ├── models.py
-│   ├── model_2024_08.pkl
-│   └── preprocessor.pkl
-├── modules/
-│   ├── evaluate.py
-│   ├── preprocess.py
-│   └── print_draw.py
-├── .gitignore
-├── README.md
-├── main.py
-└── requirements.txt
+```shell
+docker compose up -d
 ```
 
-###### `data/` (Le garde-manger du projet)
-Ici, c'est là que nos précieuses données vivent.
-* `df_new.csv` : Les données fraîches du jour, prêtes à être dévorées par notre IA.
-* `df_old.csv` : Les classiques, les vétérans, ceux qui ont tout vu. On les garde par nostalgie (et pour la rétrospective).
 
-###### `models/` (Le garage à cerveaux)
-Ce dossier, c'est notre caverne d'Ali Baba des cerveaux artificiels.
-* `models.py` : Les plans de nos futurs cyborgs... euh, de nos modèles. C'est ici que l'on définit l'architecture de nos NN et autres merveilles.
-* `model_2024_08.pkl` : Une version sauvegardée de notre modèle. On l'a encapsulé pour qu'il ne s'échappe pas et ne domine pas le monde... pas encore.
-* `preprocessor.pkl` : L'outil magique qui prépare les données avant de les donner à manger au modèle. Sans lui, c'est l'indigestion assurée !
+The stack enclose backend and only frontend and mlflow will be exposed.
+* **frontend**: http://localhost:3000
+* **MLFlow** : http://localhost:5000
 
-###### `modules/` (La boîte à outils de MacGyver)
-Ce sont nos couteaux suisses du code. Chaque fichier est un expert dans son domaine.
-* `evaluate.py` : Le juge impitoyable qui dit si notre modèle est un génie ou un cancre.
-* `preprocess.py` : Le chef cuisinier des données. Il les nettoie, les coupe, les assaisonne pour qu'elles soient parfaites pour notre IA.
-* `print_draw.py` : L'artiste du groupe. Il transforme nos chiffres barbares en beaux graphiques pour que même ta grand-mère puisse comprendre (enfin, presque).
+### Build
 
----
+In case of source update, stack need to be rebuild to take in account modification.
 
-On espère que cette petite virée dans notre projet t'a plu. N'hésite pas à jeter un œil au `main.py` pour lancer le grand spectacle !
-
-*Fait avec amour, code et une bonne dose de caféine (et un peu de folie).*
+```shell
+# stop the stack
+docker compose down
+# update the stack with current source
+docker compose build
+# run the updated stack
+docker compose up -d
+```
