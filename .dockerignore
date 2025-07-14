@@ -10,3 +10,5 @@ Dockerfile-backend
 docker-compose
 
 # Exclude
+mlartifacts
+mlruns
