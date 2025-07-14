@@ -1,3 +1,10 @@
+## 0.0.3 (2025-07-14)
+
+### Refactor
+
+- backend polishing adding logs and error management.
+- frontend polishing adding logs and error management.
+
 ## 0.0.2 (2025-07-13)
 
 ### Feat
