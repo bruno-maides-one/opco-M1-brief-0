@@ -43,17 +43,17 @@ def predict_UI():
         type_contrat = st.selectbox("Type de contrat", ("Tiers", "Tous risques"))
         age = st.number_input('Age', min_value=0, max_value=120, step=1, value=18)
         anciennete_contrat = st.number_input('Anciennete Contrat', min_value=0, max_value=50, step=1)
-        nombre_sinistre = st.number_input('Nombre sinistres', min_value=0, max_value=50, step=1)
+        nombre_sinistres = st.number_input('Nombre sinistres', min_value=0, max_value=50, step=1)
         submited = st.form_submit_button(label='Prévision')
         if submited:
             try:
-                logger.info(f"Prediction : called : region:{region}, type_contrat:{type_contrat}, age:{age}, anciennete_contrat:{anciennete_contrat}, nombre_sinistre:{nombre_sinistre}")
+                logger.info(f"Prediction : called : region:{region}, type_contrat:{type_contrat}, age:{age}, anciennete_contrat:{anciennete_contrat}, nombre_sinistres:{nombre_sinistres}")
                 # Validators
                 if age < 0 or age > 120:
                     raise ValueError("L'âge doit être compris entre 0 et 120.")
                 if anciennete_contrat < 0 or anciennete_contrat > 50:
                     raise ValueError("L'ancienneté du contrat doit être comprise entre 0 et 50.")
-                if nombre_sinistre < 0 or nombre_sinistre > 50:
+                if nombre_sinistres < 0 or nombre_sinistres > 50:
                     raise ValueError("Le nombre de sinistres doit être compris entre 0 et 50.")
 
                 response = requests.post(f'{BACKEND_URI}/predict', json={
@@ -61,7 +61,7 @@ def predict_UI():
                     'type_contrat': type_contrat,
                     'age': age,
                     'anciennete_contrat': anciennete_contrat,
-                    'nombre_sinistre': nombre_sinistre,
+                    'nombre_sinistres': nombre_sinistres,
                 })
                 if response.status_code == 200:
                     st.success('Prediction successful')

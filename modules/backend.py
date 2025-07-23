@@ -47,7 +47,7 @@ def do_predict(model, params):
     Do a prediction
     """
     try:
-        df = pd.read_csv(join('data/assurance', 'ds_old.csv'), nrows=20)
+        df = pd.read_csv(join('data/assurance', 'ds_old.csv'), nrows=2)
         # dict = df.to_dict('list')
         # dict['id_client'].append(-1)
         # dict['montant_total_sinistres'].append(-1)
@@ -58,6 +58,8 @@ def do_predict(model, params):
         # dict['type_contrat'].append(params['type_contrat'])
         # df = pd.DataFrame.from_dict(dict)
         logger.info(f"Predicting : age:{params['age']}, anciennete_contrat:{params['anciennete_contrat']}, nombre_sinistres:{params['nombre_sinistres']}, region:{params['region']}, type_contrat:{params['type_contrat']}")
+        # df = pd.DataFrame([params])
+
         X, y, _ = preprocessing_old_dataset(df)
         prediction = model_predict(model, X)[-1]
         return prediction

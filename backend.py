@@ -33,7 +33,7 @@ class Prediction_params(BaseModel):
     type_contrat: str
     age: int
     anciennete_contrat: int
-    nombre_sinistre: int
+    nombre_sinistres: int
 
 class Training_params(BaseModel):
     epochs: int
